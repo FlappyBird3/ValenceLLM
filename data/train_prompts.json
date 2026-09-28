@@ -1,0 +1,1410 @@
+[
+  {
+    "elements": [
+      "Na",
+      "Co",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, cobalt, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Mn",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, manganese, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Nb",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, niobium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ni",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, nickel, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Co",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, cobalt, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Nb",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, niobium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Ni",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, nickel, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Ti",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, titanium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Co",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, cobalt, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Fe",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, iron, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Mn",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, manganese, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mo",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, molybdenum, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Co",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, cobalt, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mn",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, manganese, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Cr",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, chromium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Ni",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, nickel, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Co",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, cobalt, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ti",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, titanium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Nb",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, niobium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ti",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, titanium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mo",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, molybdenum, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Nb",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, niobium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Cr",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, chromium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "V",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, vanadium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Zn",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, zinc, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mn",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, manganese, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Mn",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, manganese, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "V",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, vanadium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Cr",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, chromium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "V",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, vanadium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Co",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, cobalt, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Cu",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, copper, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Cu",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, copper, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Mn",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, manganese, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Zn",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, zinc, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Ti",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, titanium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Cr",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, chromium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Co",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, cobalt, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Mo",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, molybdenum, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "V",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, vanadium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Cr",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, chromium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cu",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, copper, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Mn",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, manganese, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Zn",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, zinc, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Mo",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, molybdenum, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Ni",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, nickel, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Ti",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, titanium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "V",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, vanadium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Nb",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, niobium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Cr",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, chromium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Fe",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, iron, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Mn",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, manganese, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Fe",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, iron, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ti",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, titanium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Cr",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, chromium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Cu",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, copper, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Zn",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, zinc, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mn",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, manganese, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Cu",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, copper, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Zn",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, zinc, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Nb",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, niobium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ni",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, nickel, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Co",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, cobalt, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "V",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, vanadium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Cu",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, copper, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "V",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, vanadium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Mo",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, molybdenum, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Ni",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, nickel, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Fe",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, iron, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Ti",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, titanium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Co",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, cobalt, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Nb",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, niobium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mo",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, molybdenum, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "V",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, vanadium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Cu",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, copper, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Fe",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, iron, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Ni",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, nickel, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Zn",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, zinc, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Cr",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, chromium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Mo",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, molybdenum, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Cr",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, chromium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Mo",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, molybdenum, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Fe",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, iron, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mo",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, molybdenum, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Cr",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, chromium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Mo",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, molybdenum, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ni",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, nickel, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Ti",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, titanium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mn",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, manganese, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Zn",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, zinc, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Fe",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, iron, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mo",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, molybdenum, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Co",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, cobalt, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mn",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, manganese, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Cu",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, copper, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ti",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, titanium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "V",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, vanadium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ti",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, titanium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Nb",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, niobium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Cu",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, copper, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Cu",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, copper, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ti",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, titanium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Zn",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, zinc, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Ni",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, nickel, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Nb",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, niobium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Nb",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, niobium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Nb",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, niobium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Co",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, cobalt, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Nb",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, niobium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Ni",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, nickel, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "V",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, vanadium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Nb",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, niobium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Fe",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, iron, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Mn",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, manganese, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mn",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, manganese, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "V",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, vanadium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Fe",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, iron, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Nb",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, niobium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Fe",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, iron, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Mo",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, molybdenum, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Nb",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, niobium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Fe",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, iron, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Ti",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, titanium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cu",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, copper, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Mn",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, manganese, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Co",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, cobalt, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Ti",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, titanium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cr",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, chromium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Mn",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, manganese, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Nb",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, niobium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ti",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, titanium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Ni",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, nickel, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Zn",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, zinc, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cr",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, chromium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Cr",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, chromium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cu",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, copper, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ni",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, nickel, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Nb",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, niobium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Co",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, cobalt, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Ti",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, titanium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mn",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, manganese, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cr",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, chromium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Zn",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, zinc, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Mo",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, molybdenum, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mo",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, molybdenum, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Fe",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, iron, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Cr",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, chromium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Ni",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, nickel, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Zn",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, zinc, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Nb",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, niobium, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Co",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, cobalt, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "V",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, vanadium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "V",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, vanadium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Co",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, cobalt, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ni",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, nickel, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Ni",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, nickel, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Fe",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, iron, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ni",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, nickel, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Cu",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, copper, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Zn",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, zinc, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Mo",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, molybdenum, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Cr",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, chromium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Mg",
+      "Fe",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing magnesium, iron, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Ti",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, titanium, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Zn",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, zinc, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Zn",
+      "S"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, zinc, and sulfur.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ni",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, nickel, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Mn",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, manganese, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Nb",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, niobium, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Mo",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, molybdenum, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Na",
+      "Co",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing sodium, cobalt, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Li",
+      "Cr",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing lithium, chromium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Fe",
+      "N"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, iron, and nitrogen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Fe",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, iron, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "K",
+      "Cr",
+      "F"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing potassium, chromium, and fluorine.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mo",
+      "O"
+    ],
+    "prompt": "Propose a plausible inorganic compound containing calcium, molybdenum, and oxygen.\nFirst state the oxidation state you will use for each element.\nThen give the compound on a final line in the form 'Formula: <formula>'."
+  }
+]
