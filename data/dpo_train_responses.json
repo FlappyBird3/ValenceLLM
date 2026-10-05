@@ -1,0 +1,2994 @@
+[
+  {
+    "elements": [
+      "Na",
+      "Co",
+      "S"
+    ],
+    "responses": [
+      "Na: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCoS3",
+      "Na: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCoS3",
+      "Na: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCoS3",
+      "Na: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCoS3",
+      "Na: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCoS3",
+      "Na: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCoS3",
+      "Na: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCoS3",
+      "Na: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCoS3"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Mn",
+      "S"
+    ],
+    "responses": [
+      "Li: +1, Mn: +7, S: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: LiMn2S4",
+      "Li: +1, Mn: +7, S: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: LiMn2S4",
+      "Li: +1, Mn: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiMnS2",
+      "Li: +1, Mn: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiMnS2",
+      "Li: +1, Mn: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiMn2S4",
+      "Li: +1, Mn: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiMnS2",
+      "Li: +1, Mn: +7, S: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: LiMn2S4",
+      "Li: +1, Mn: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiMn2S4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Nb",
+      "O"
+    ],
+    "responses": [
+      "Mg: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2O5",
+      "Mg: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2O4",
+      "Mg: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2O4",
+      "Mg: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2O5",
+      "Mg: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2O5",
+      "Mg: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2O4",
+      "Mg: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2O5",
+      "Mg: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2O5"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ni",
+      "F"
+    ],
+    "responses": [
+      "Ca: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: CaNiF4",
+      "Ca: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + 4(-1) = 0\nFormula: CaNiF4",
+      "Ca: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + 4(-1) = 0\nFormula: CaNiF4",
+      "Ca: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: CaNiF4",
+      "Ca: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: CaNiF4",
+      "Ca: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: CaNiF4",
+      "Ca: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: CaNiF4",
+      "Ca: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: CaNiF4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Co",
+      "O"
+    ],
+    "responses": [
+      "K: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KCoO4",
+      "K: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KCo2O4",
+      "K: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KCo2O4",
+      "K: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KCoO4",
+      "K: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KCo2O4",
+      "K: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KCoO3",
+      "K: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KCo2O4",
+      "K: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KCo2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Nb",
+      "O"
+    ],
+    "responses": [
+      "Ca: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2O4",
+      "Ca: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2O4",
+      "Ca: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2O4",
+      "Ca: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2O4",
+      "Ca: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2O4",
+      "Ca: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2O4",
+      "Ca: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2O4",
+      "Ca: +2, Nb: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Ni",
+      "F"
+    ],
+    "responses": [
+      "Na: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaNiF4",
+      "Na: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + (-1) * 4 = 0\nFormula: NaNiF4",
+      "Na: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaNiF4",
+      "Na: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaNiF4",
+      "Na: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaNiF4",
+      "Na: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaNiF4",
+      "Na: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaNiF4",
+      "Na: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + (-1)(4) = 0\nFormula: NaNiF4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Ti",
+      "S"
+    ],
+    "responses": [
+      "Li: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTiS4",
+      "Li: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + (-2)(6) = 0\nFormula: LiTiS4",
+      "Li: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTiS4",
+      "Li: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTiS4",
+      "Li: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 6(-2) = 0\nFormula: LiTiS4",
+      "Li: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + (-2) = 0\nFormula: LiTiS4",
+      "Li: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTiS4",
+      "Li: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + (-2)(4) = 0\nFormula: LiTiS4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Co",
+      "F"
+    ],
+    "responses": [
+      "Ca: +2, Co: +3, F: -1\nCheck: (+2) + 2(+3) + 4(-1) = 0\nFormula: CaCoF3",
+      "Ca: +2, Co: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaCoF3",
+      "Ca: +2, Co: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaCoF3",
+      "Ca: +2, Co: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaCoF3",
+      "Ca: +2, Co: +3, F: -1\nCheck: (+2) + 2(+3) + 4(-1) = 0\nFormula: CaCoF3",
+      "Ca: +2, Co: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaCoF3",
+      "Ca: +2, Co: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaCoF3",
+      "Ca: +2, Co: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaCoF3"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Fe",
+      "O"
+    ],
+    "responses": [
+      "Ca: +2, Fe: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFe2O4",
+      "Ca: +2, Fe: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFe2O4",
+      "Ca: +2, Fe: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFe2O4",
+      "Ca: +2, Fe: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFe2O4",
+      "Ca: +2, Fe: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFe2O4",
+      "Ca: +2, Fe: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFe2O4",
+      "Ca: +2, Fe: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFe2O4",
+      "Ca: +2, Fe: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFe2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Mn",
+      "N"
+    ],
+    "responses": [
+      "Na: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + (-3)(4) = 0\nFormula: NaMnN4",
+      "Na: +1, Mn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaMnN3",
+      "Na: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + (-3)(4) = 0\nFormula: NaMnN4",
+      "Na: +1, Mn: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: NaMnN3",
+      "Na: +1, Mn: +3, N: -3\nCheck: (+1) + 3(+3) + 3(-3) = 0\nFormula: NaMnN3",
+      "Na: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + (-3) * 4 = 0\nFormula: NaMnN4",
+      "Na: +1, Mn: +4, N: -3\nCheck: (+1) + 4(+4) + (-3)(1) = 0\nFormula: NaMnN3",
+      "Na: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + (-3)(4) = 0\nFormula: NaMnN4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mo",
+      "F"
+    ],
+    "responses": [
+      "Mg: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + (-1)(4) = 0\nFormula: MgMoF4",
+      "Mg: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + (-1)(4) = 0\nFormula: MgMoF4",
+      "Mg: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + 4(-1) = 0\nFormula: MgMoF4",
+      "Mg: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + (-1)(4) = 0\nFormula: MgMoF4",
+      "Mg: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + (-1)(4) = 0\nFormula: MgMoF4",
+      "Mg: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + (-1)(4) = 0\nFormula: MgMoF4",
+      "Mg: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + (-1)(4) = 0\nFormula: MgMoF4",
+      "Mg: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + 4(-1) = 0\nFormula: MgMoF4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Co",
+      "O"
+    ],
+    "responses": [
+      "Ca: +2, Co: +3, O: -2\nCheck: (+2) + 2(+3) + 4(-2) = 0\nFormula: CaCo2O4",
+      "Ca: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCo3",
+      "Ca: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCo3O4",
+      "Ca: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCo2O4",
+      "Ca: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCo2O4",
+      "Ca: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCo2O4",
+      "Ca: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCo2O4",
+      "Ca: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCo3"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mn",
+      "F"
+    ],
+    "responses": [
+      "Ca: +2, Mn: +2, F: -1\nCheck: (+2) + 2(+2) + (-1) = 0\nFormula: CaMnF2",
+      "Ca: +2, Mn: +4, F: -1\nCheck: (+2) + 4(+4) + (-1)(4) = 0\nFormula: CaMnF4",
+      "Ca: +2, Mn: +2, F: -1\nCheck: (+2) + 2(+2) + 4(-1) = 0\nFormula: CaMnF4",
+      "Ca: +2, Mn: +3, F: -1\nCheck: (+2) + 3(+3) + (-1)(4) = 0\nFormula: CaMnF4",
+      "Ca: +2, Mn: +2, F: -1\nCheck: (+2) + 2(+2) + 4(-1) = 0\nFormula: CaMnF4",
+      "Ca: +2, Mn: +4, F: -1\nCheck: (+2) + 4(+4) + 5(-1) = 0\nFormula: CaMnF5",
+      "Ca: +2, Mn: +2, F: -1\nCheck: (+2) + 2(+2) + 4(-1) = 0\nFormula: CaMnF4",
+      "Ca: +2, Mn: +4, F: -1\nCheck: (+2) + 4(+4) + (-1)(4) = 0\nFormula: CaMnF4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Cr",
+      "O"
+    ],
+    "responses": [
+      "Ca: +2, Cr: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaCr2O7",
+      "Ca: +2, Cr: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCr2O4",
+      "Ca: +2, Cr: +3, O: -2\nCheck: (+2) + 1(+3) + 4(-2) = 0\nFormula: CaCr2O4",
+      "Ca: +2, Cr: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCr2O4",
+      "Ca: +2, Cr: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCr2O4",
+      "Ca: +2, Cr: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaCr2O4",
+      "Ca: +2, Cr: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaCr2O7",
+      "Ca: +2, Cr: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaCr2O7"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Ni",
+      "N"
+    ],
+    "responses": [
+      "Na: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaNiN3",
+      "Na: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaNiN3",
+      "Na: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaNiN3",
+      "Na: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaNiN3",
+      "Na: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaNiN3",
+      "Na: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaNiN3",
+      "Na: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaNiN3",
+      "Na: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaNiN3"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Co",
+      "N"
+    ],
+    "responses": [
+      "Mg: +2, Co: +3, N: -3\nCheck: (+2) + 3(+3) + 4(-3) = 0\nFormula: MgCoN3",
+      "Mg: +2, Co: +3, N: -3\nCheck: (+2) + 3(+3) + 5(-3) = 0\nFormula: MgCoN3",
+      "Mg: +2, Co: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) = 0\nFormula: MgCoN3",
+      "Mg: +2, Co: +3, N: -3\nCheck: (+2) + 3(+3) + 5(-3) = 0\nFormula: MgCoN3",
+      "Mg: +2, Co: +3, N: -3\nCheck: (+2) + 3(+3) + 4(-3) = 0\nFormula: MgCoN3",
+      "Mg: +2, Co: +3, N: -3\nCheck: (+2) + 3(+3) + (-3)(4) = 0\nFormula: MgCoN4",
+      "Mg: +2, Co: +3, N: -3\nCheck: (+2) + 2(+3) + (-3) = 0\nFormula: MgCoN3",
+      "Mg: +2, Co: +3, N: -3\nCheck: (+2) + 3(+3) + 4(-3) = 0\nFormula: MgCoN3"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ti",
+      "N"
+    ],
+    "responses": [
+      "Mg: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3) = 0\nFormula: MgTiN3",
+      "Mg: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(4) = 0\nFormula: MgTiN4",
+      "Mg: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3) = 0\nFormula: MgTiN3",
+      "Mg: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3) = 0\nFormula: MgTiN3",
+      "Mg: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(1) = 0\nFormula: MgTiN3",
+      "Mg: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3) = 0\nFormula: MgTiN3",
+      "Mg: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(1) = 0\nFormula: MgTiN3",
+      "Mg: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3) = 0\nFormula: MgTiN3"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Nb",
+      "F"
+    ],
+    "responses": [
+      "Li: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: LiNbF4",
+      "Li: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: LiNbF4",
+      "Li: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: LiNbF4",
+      "Li: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: LiNbF4",
+      "Li: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: LiNbF4",
+      "Li: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: LiNbF4",
+      "Li: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: LiNbF4",
+      "Li: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: LiNbF4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ti",
+      "F"
+    ],
+    "responses": [
+      "Mg: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1)(6) = 0\nFormula: MgTiF4",
+      "Mg: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + 4(-1) = 0\nFormula: MgTiF4",
+      "Mg: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1) * 6 = 0\nFormula: MgTiF4",
+      "Mg: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1)(6) = 0\nFormula: MgTiF4",
+      "Mg: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1) x 6 = 0\nFormula: MgTiF6",
+      "Mg: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1)(4) = 0\nFormula: MgTiF4",
+      "Mg: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1) * 6 = 0\nFormula: MgTiF4",
+      "Mg: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + 4(-1) = 0\nFormula: MgTiF4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mo",
+      "O"
+    ],
+    "responses": [
+      "Mg: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2O4",
+      "Mg: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2O4",
+      "Mg: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2O4",
+      "Mg: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2O4",
+      "Mg: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2O4",
+      "Mg: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2O4",
+      "Mg: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2O4",
+      "Mg: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Nb",
+      "F"
+    ],
+    "responses": [
+      "Mg: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgNbF4",
+      "Mg: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgNbF4",
+      "Mg: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgNbF4",
+      "Mg: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + (-1)(4) = 0\nFormula: MgNbF4",
+      "Mg: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgNbF4",
+      "Mg: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgNbF4",
+      "Mg: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgNbF4",
+      "Mg: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgNbF4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Cr",
+      "S"
+    ],
+    "responses": [
+      "Li: +1, Cr: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCrS3",
+      "Li: +1, Cr: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiCrS2",
+      "Li: +1, Cr: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiCr2S4",
+      "Li: +1, Cr: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiCr2S4",
+      "Li: +1, Cr: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCrS4",
+      "Li: +1, Cr: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiCr2S4",
+      "Li: +1, Cr: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCr2S4",
+      "Li: +1, Cr: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCrS2"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "V",
+      "S"
+    ],
+    "responses": [
+      "Li: +1, V: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiV2S4",
+      "Li: +1, V: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiV2S4",
+      "Li: +1, V: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiV2S4",
+      "Li: +1, V: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiV2S4",
+      "Li: +1, V: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiV2S4",
+      "Li: +1, V: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: Li2V2S4",
+      "Li: +1, V: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiV2S4",
+      "Li: +1, V: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiV2S4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Zn",
+      "O"
+    ],
+    "responses": [
+      "Na: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaZnO2",
+      "Na: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnO2",
+      "Na: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnO2",
+      "Na: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaZnO2",
+      "Na: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaZnO2",
+      "Na: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaZnO2",
+      "Na: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnO2",
+      "Na: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnO2"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mn",
+      "S"
+    ],
+    "responses": [
+      "Ca: +2, Mn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMnS2",
+      "Ca: +2, Mn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMnS2",
+      "Ca: +2, Mn: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: CaMnS2",
+      "Ca: +2, Mn: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: CaMnS2",
+      "Ca: +2, Mn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMnS2",
+      "Ca: +2, Mn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMnS2",
+      "Ca: +2, Mn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMnS2",
+      "Ca: +2, Mn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMnS2"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Mn",
+      "O"
+    ],
+    "responses": [
+      "Li: +1, Mn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiMn2O4",
+      "Li: +1, Mn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiMn2O4",
+      "Li: +1, Mn: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiMn2O4",
+      "Li: +1, Mn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiMn2O4",
+      "Lithium (Li): +1, Manganese (Mn): +2, Oxygen (O): -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiMn2O4",
+      "Li: +1, Mn: +4, O: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiMn2O4",
+      "Li: +1, Mn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiMn2O4",
+      "Li: +1, Mn: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiMn2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "V",
+      "N"
+    ],
+    "responses": [
+      "Li: +1, V: +5, N: -3\nCheck: (+1) + 5(+5) + (-3)(4) = 0\nFormula: LiV2N4",
+      "Li: +1, V: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: LiV2N3",
+      "Li: +1, V: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: LiV2N3",
+      "Li: +1, V: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: LiV2N3",
+      "Li: +1, V: +5, N: -3\nCheck: (+1) + 5(+5) + (-3)(4) = 0\nFormula: LiV2N4",
+      "Li: +1, V: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: LiV2N3",
+      "Li: +1, V: +5, N: -3\nCheck: (+1) + 5(+5) + 4(-3) = 0\nFormula: LiV2N4",
+      "Li: +1, V: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: LiV2N3"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Cr",
+      "F"
+    ],
+    "responses": [
+      "Na: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaCrF4",
+      "Na: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaCrF4",
+      "Na: +1, Cr: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: NaCrF4",
+      "Na: +1, Cr: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: NaCrF4",
+      "Na: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + (-1)(4) = 0\nFormula: NaCrF4",
+      "Na: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + (-1)(4) = 0\nFormula: NaCrF4",
+      "Na: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + (-1)(4) = 0\nFormula: NaCrF4",
+      "Na: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaCrF4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "V",
+      "O"
+    ],
+    "responses": [
+      "K: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KVO4",
+      "K: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KVO4",
+      "K: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KVO4",
+      "K: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KVO4",
+      "K: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KVO4",
+      "K: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KVO4",
+      "K: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KVO4",
+      "K: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KVO4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Co",
+      "S"
+    ],
+    "responses": [
+      "Li: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCoS3",
+      "Li: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCoS3",
+      "Li: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCoS3",
+      "Li: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCoS3",
+      "Li: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCoS3",
+      "Li: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCoS3",
+      "Li: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCoS3",
+      "Li: +1, Co: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCoS3"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Cu",
+      "O"
+    ],
+    "responses": [
+      "Ca: +2, Cu: +1, O: -2\nCheck: (+2) + 1 + 4(-2) = 0\nFormula: CaCuO2",
+      "Ca: +2, Cu: +1, O: -2\nCheck: (+2) + (+1) + 4(-2) = 0\nFormula: CaCuO2",
+      "Ca: +2, Cu: +1, O: -2\nCheck: (+2) + 2(+1) + 4(-2) = 0\nFormula: CaCuO2",
+      "Ca: +2, Cu: +1, O: -2\nCheck: (+2) + (+1) + 4(-2) = 0\nFormula: CaCuO4",
+      "Ca: +2, Cu: +1, O: -2\nCheck: (+2) + 1 + 4(-2) = 0\nFormula: CaCuO2",
+      "Ca: +2, Cu: +1, O: -2\nCheck: (+2) + (+1) + 4(-2) = 0\nFormula: CaCuO2",
+      "Ca: +2, Cu: +1, O: -2\nCheck: (+2) + (+1) + 4(-2) = 0\nFormula: CaCuO4",
+      "Ca: +2, Cu: +1, O: -2\nCheck: (+2) + 1 + 4(-2) = 0\nFormula: CaCuO4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Cu",
+      "O"
+    ],
+    "responses": [
+      "Li: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiCu2O4",
+      "Lithium (Li): +1\nCopper (Cu): +2\n\nCheck: (+1) + 2(+2) + 4(-2) = 0\n\nFormula: Li2CuO4",
+      "Li: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiCu2O4",
+      "Li: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiCu2O4",
+      "Li: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiCu2O4",
+      "Li: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiCu2O4",
+      "Li: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiCu2O4",
+      "Li: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiCu2O4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Mn",
+      "O"
+    ],
+    "responses": [
+      "K: +1, Mn: +7, O: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: K2MnO4",
+      "K: +1, Mn: +7, O: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: K2MnO4",
+      "K: +1, Mn: +7, O: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: KMO4",
+      "K: +1, Mn: +7, O: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: K2MnO4",
+      "K: +1, Mn: +7, O: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: K2MnO4",
+      "K: +1, Mn: +7, O: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: K2MnO4",
+      "K: +1, Mn: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: K2MnO4",
+      "K: +1, Mn: +7, O: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: KMO4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Zn",
+      "F"
+    ],
+    "responses": [
+      "Li: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiZnF2",
+      "Li: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: Li2ZnF4",
+      "Li: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiZnF2",
+      "Li: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiZnF2",
+      "Li: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiZnF2",
+      "Li: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiZnF2",
+      "Li: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: Li2ZnF4",
+      "Li: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiZnF2"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Ti",
+      "F"
+    ],
+    "responses": [
+      "Li: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + (-1)(6) = 0\nFormula: LiTIF4",
+      "Li: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + (-1)(4) = 0\nFormula: LiTIF4",
+      "Li: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + (-1)(4) = 0\nFormula: LiTIF4",
+      "Li: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + (-1)(4) = 0\nFormula: LiTiF4",
+      "Li: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + 4(-1) = 0\nFormula: LiTiF4",
+      "Li: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + 4(-1) = 0\nFormula: LiTiF4",
+      "Li: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + 4(-1) = 0\nFormula: LiTiF4",
+      "Li: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + (-1)(4) = 0\nFormula: LiTiF4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Cr",
+      "S"
+    ],
+    "responses": [
+      "Ca: +2, Cr: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCr2S4",
+      "Ca: +2, Cr: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaCr2S4",
+      "Ca: +2, Cr: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaCr2S4",
+      "Ca: +2, Cr: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaCr2S4",
+      "Ca: +2, Cr: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaCr2S4",
+      "Ca: +2, Cr: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaCr2S4",
+      "Ca: +2, Cr: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaCr2S4",
+      "Ca: +2, Cr: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaCr2S4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Co",
+      "N"
+    ],
+    "responses": [
+      "Ca: +2, Co: +3, N: -3\nCheck: (+2) + 3(+3) + 5(-3) = 0\nFormula: CaCo3N5",
+      "Ca: +2, Co: +3, N: -3\nCheck: (+2) + 2(+3) + (-3) * 4 = 0\nFormula: CaCo3N4",
+      "Ca: +2, Co: +3, N: -3\nCheck: (+2) + 2(+3) + (-3) = 0\nFormula: CaCo3N3",
+      "Ca: +2, Co: +3, N: +5\nCheck: (+2) + 3(+3) + 5(+1) = 0\nFormula: CaCo3N5",
+      "Ca: +2, Co: +3, N: +5\nCheck: (+2) + 3(+3) + 5(+1) = 10\nFormula: CaCo3N5",
+      "Ca: +2, Co: +3, N: -3\nCheck: (+2) + 2(+3) + (-3) = 0\nFormula: CaCo3N3",
+      "Ca: +2, Co: +3, N: -3\nCheck: (+2) + 3(+3) + 5(-3) = 0\nFormula: CaCo3N5",
+      "Ca: +2, Co: +3, N: -3\nCheck: (+2) + 2(+3) + (-3) = 0\nFormula: CaCo3N3"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Mo",
+      "F"
+    ],
+    "responses": [
+      "Li: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiMoOF4",
+      "Li: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiMoF4",
+      "Li: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiMoOF4",
+      "Li: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiMoF4",
+      "Li: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiMoF4",
+      "Li: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiMoF4",
+      "Li: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiMoF4",
+      "Li: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiMoF4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "V",
+      "S"
+    ],
+    "responses": [
+      "Ca: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2S4",
+      "Ca: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2S4",
+      "Ca: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2S4",
+      "Ca: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2S4",
+      "Ca: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2S4",
+      "Ca: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2S4",
+      "Ca: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2S4",
+      "Ca: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2S4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Cr",
+      "N"
+    ],
+    "responses": [
+      "K: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: KCrN3",
+      "K: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: KCrN4",
+      "K: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: KCrN3",
+      "K: +1, Cr: +6, N: -3\nCheck: (+1) + 6(+6) + (-3)(4) = 0\nFormula: KCrN4",
+      "K: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + (-3)(4) = 0\nFormula: KCrN4",
+      "K: +1, Cr: +6, N: -3\nCheck: (+1) + 6(+6) + 5(-3) = 0\nFormula: KCrN5",
+      "K: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: KCrN3",
+      "K: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: KCrN3"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cu",
+      "F"
+    ],
+    "responses": [
+      "Mg: +2, Cu: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: MgCuF4",
+      "Mg: +2, Cu: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: MgCuF4",
+      "Mg: +2, Cu: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: MgCuF4",
+      "Mg: +2, Cu: +1, F: -1\nCheck: (+2) + (+1) + 4(-1) = 0\nFormula: MgCuF4",
+      "Mg: +2, Cu: +1, F: -1\nCheck: (+2) + (+1) + 4(-1) = 0\nFormula: MgCuF4",
+      "Mg: +2, Cu: +1, F: -1\nCheck: (+2) + (+1) + (-1)(4) = 0\nFormula: MgCuF4",
+      "Mg: +2, Cu: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: MgCuF4",
+      "Mg: +2, Cu: +2, F: -1\nCheck: (+2) + 2(+2) + (-1) \u00d7 5 = 0\nFormula: MgCuF5"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Mn",
+      "F"
+    ],
+    "responses": [
+      "Li: +1, Mn: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: LiMnF4",
+      "Li: +1, Mn: +7, F: -1\nCheck: (+1) + 7(+7) + 4(-1) = 0\nFormula: LiMnF4",
+      "Li: +1, Mn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiMnF4",
+      "Li: +1, Mn: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: LiMnF4",
+      "Li: +1, Mn: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: LiMnF4",
+      "Li: +1, Mn: +7, F: -1\nCheck: (+1) + 7(+7) + 4(-1) = 0\nFormula: LiMnF4",
+      "Li: +1, Mn: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: LiMnF4",
+      "Li: +1, Mn: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: LiMnF4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Zn",
+      "F"
+    ],
+    "responses": [
+      "Na: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaZnF4",
+      "Na: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaZnF4",
+      "Na: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaZnF4",
+      "Na: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaZnF4",
+      "Na: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: Na2ZnF4",
+      "Na: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: Na2ZnF4",
+      "Na: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: Na2ZnF4",
+      "Na: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: Na2ZnF4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Mo",
+      "S"
+    ],
+    "responses": [
+      "Li: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiMoS4",
+      "Lithium (Li): +1,\nMolybdenum (Mo): +6,\nSulfur (S): -2\n\nThe formula for this compound is:\nFormula: Li2MoS3",
+      "Li: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiMoS4",
+      "Li: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiMoS4",
+      "Li: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiMo2S4",
+      "Li: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiMo2S4",
+      "Li: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiMo2S4",
+      "Li: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiMoS4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Ni",
+      "N"
+    ],
+    "responses": [
+      "K: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KNiN3",
+      "K: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KNiN3",
+      "K: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KNiN3",
+      "K: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KNiN3",
+      "K: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KNiN3",
+      "K: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KNiN3",
+      "K: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + 3(-3) = 0\nFormula: KNiN3",
+      "K: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KNiN3"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Ti",
+      "S"
+    ],
+    "responses": [
+      "Na: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: NaTiS4",
+      "Na: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + (-2)(4) = 0\nFormula: NaTiS4",
+      "Na: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: NaTiS4",
+      "Na: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: Na2TiS4",
+      "Na: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 6(-2) = 0\nFormula: NaTiS3",
+      "Na: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + (-2) * 2 = 0\nFormula: NaTiS2",
+      "Na: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + (-2)(6) = 0\nFormula: Na2TiS4",
+      "Na: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: NaTi2S4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "V",
+      "S"
+    ],
+    "responses": [
+      "Mg: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgV2S4",
+      "Mg: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgV2S4",
+      "Mg: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgV2S4",
+      "Mg: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgV2S4",
+      "Mg: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgV2S3",
+      "Mg: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgV2S4",
+      "Mg: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgV2S4",
+      "Mg: +2, V: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgV2S4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Nb",
+      "F"
+    ],
+    "responses": [
+      "Na: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaNbF4",
+      "Na: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaNbF4",
+      "Na: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaNbF4",
+      "Na: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaNbF4",
+      "Na: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaNbF4",
+      "Na: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaNbF4",
+      "Na: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaNbF4",
+      "Na: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaNbF4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Cr",
+      "N"
+    ],
+    "responses": [
+      "Ca: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + (-3)(4) = 0\nFormula: CaCrN4",
+      "Ca: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) = 0\nFormula: CaCrN3",
+      "Ca: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + (-3)(4) = 0\nFormula: CaCrN4",
+      "Ca: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + 5(-3) = 0\nFormula: CaCrN3",
+      "Ca: +2, Cr: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: CaCrN5",
+      "Ca: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) = 0\nFormula: CaCrN3",
+      "Ca: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + 5(-3) = 0\nFormula: CaCrN5",
+      "Ca: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + (-3)(4) = 0\nFormula: CaCrN4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Fe",
+      "N"
+    ],
+    "responses": [
+      "Na: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + (-3)(4) = 0\nFormula: NaFeN4",
+      "Na: +1, Fe: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaFeN3",
+      "Na: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) \u00d7 4 = 0\nFormula: NaFeN4",
+      "Na: +1, Fe: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaFeN3",
+      "Na: +1, Fe: +2, N: -3\nCheck: (+1) + 2(+2) + 4(-3) = 0\nFormula: NaFeN4",
+      "Na: +1, Fe: +2, N: -3\nCheck: (+1) + 2(+2) + 5(-3) = 0\nFormula: NaFeN3",
+      "Na: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + (-3)(4) = 0\nFormula: NaFeN3",
+      "Na: +1, Fe: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaFeN3"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Mn",
+      "S"
+    ],
+    "responses": [
+      "Na: +1, Mn: +7, S: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: NaMnS4",
+      "Na: +1, Mn: +7, S: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: NaMnS4",
+      "Na: +1, Mn: +7, S: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: NaMnS4",
+      "Na: +1, Mn: +7, S: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: NaMnS4",
+      "Na: +1, Mn: +7, S: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: NaMn2S4",
+      "Na: +1, Mn: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaMnS2",
+      "Na: +1, Mn: +7, S: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: NaMnS4",
+      "Na: +1, Mn: +7, S: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: NaMnS4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Fe",
+      "S"
+    ],
+    "responses": [
+      "K: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KFeS3",
+      "K: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KFe2S3",
+      "K: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KFeS3",
+      "K: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KFeS3",
+      "K: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KFeS3",
+      "K: +1, Fe: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KFeS2",
+      "K: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KFe2S3",
+      "K: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: KFeS3"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ti",
+      "O"
+    ],
+    "responses": [
+      "Mg: +2, Ti: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTi2O4",
+      "Mg: +2, Ti: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTi2O4",
+      "Mg: +2, Ti: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTi2O4",
+      "Mg: +2, Ti: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTi2O4",
+      "Mg: +2, Ti: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTi2O4",
+      "Mg: +2, Ti: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTi2O4",
+      "Mg: +2, Ti: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTi2O4",
+      "Mg: +2, Ti: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTi2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Cr",
+      "S"
+    ],
+    "responses": [
+      "Na: +1, Cr: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCr2S4",
+      "Na: +1, Cr: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCrS2",
+      "Na: +1, Cr: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCr2S4",
+      "Na: +1, Cr: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCr2S4",
+      "Na: +1, Cr: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaCr2S4",
+      "Na: +1, Cr: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaCr2S4",
+      "Na: +1, Cr: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaCr2S4",
+      "Na: +1, Cr: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaCr2S4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Cu",
+      "N"
+    ],
+    "responses": [
+      "Na: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + 4(-3) = 0\nFormula: NaCuN3",
+      "Na: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + 4(-3) = 0\nFormula: NaCuN3",
+      "Na: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaCuN3",
+      "Na: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaCuN3",
+      "Na: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + 5(-3) = 0\nFormula: NaCuN3",
+      "Na: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaCuN3",
+      "Na: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaCuN3",
+      "Na: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaCuN3"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Zn",
+      "N"
+    ],
+    "responses": [
+      "K: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KZnN3",
+      "K: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + 4(-3) = 0\nFormula: KZnN3",
+      "K: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KZnN3",
+      "K: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KZnN3",
+      "K: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KZnN3",
+      "K: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + 5(-3) = 0\nFormula: KZnN3",
+      "K: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + 3(-3) = 0\nFormula: KZnN3",
+      "K: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + 4(-3) = 0\nFormula: KZnN3"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mn",
+      "N"
+    ],
+    "responses": [
+      "Mg: +2, Mn: +3, N: -3\nCheck: (+2) + 3(+3) + 4(-3) = 0\nFormula: MgN2Mn3O4",
+      "Mg: +2, Mn: +4, N: -3\nCheck: (+2) + 4(+4) + 5(-3) = 0\nFormula: MgMnN4",
+      "Mg: +2, Mn: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(4) = 0\nFormula: MgN4Mn2O4",
+      "Mg: +2, Mn: +4, N: -3\nCheck: (+2) + 4(+4) + (-3) = 0\nFormula: Mg5N2Mn4",
+      "Mg: +2, Mn: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(1) = 0\nFormula: MgMnN4",
+      "Mg: +2, Mn: +4, N: -3\nCheck: (+2) + 4(+4) + (-3) = 0\nFormula: MgN2Mn4",
+      "Mg: +2, Mn: +2, N: -3\nCheck: (+2) + 2(+2) + 3(-3) = 0\nFormula: MgMnN3",
+      "Mg: +2, Mn: +4, N: -3\nCheck: (+2) + 4(+4) + (-3) = 0\nFormula: MgMnN3"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Cu",
+      "F"
+    ],
+    "responses": [
+      "Li: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiCuF4",
+      "Li: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiCuF4",
+      "Li: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiCuF4",
+      "Li: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiCuF4",
+      "Li: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiCuF4",
+      "Li: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + (-1) \u00d7 3 = 0\nFormula: LiCuF3",
+      "Li: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiCuF4",
+      "Li: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiCuF4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Zn",
+      "N"
+    ],
+    "responses": [
+      "Ca: +2, Zn: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: CaZnN3",
+      "Ca: +2, Zn: +2, N: +5\nCheck: (+2) + 2(+2) + 5(+1) = 0\nFormula: CaZnN2",
+      "Ca: +2, Zn: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: CaZnN3",
+      "Ca: +2, Zn: +2, N: +5\nCheck: (+2) + 2(+2) + 5(-3) = 0\nFormula: CaZnN2",
+      "Ca: +2, Zn: +2, N: +5\nCheck: (+2) + 2(+2) + 5(+1) = 9 (This is not zero)\nSo, there seems to be an error because the sum of the charges does not equal zero. The correct formula should balance out with all atoms having equal positive or negative charge.\n\nFor simplicity, let's assume we're looking for a hypothetical balanced compound where both Ca and Zn have a +2 charge:\n\nFormula: CaZnN2\n\nPlease note that this is just one possible scenario based on your provided elements, but it doesn't represent a real compound due to the unbalanced charges. If you need a real compound, please provide",
+      "Ca: +2, Zn: +2, N: +5\nCheck: (+2) + 2(+2) + 5(+1) = 0\nFormula: CaZnN2",
+      "Ca: +2, Zn: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: CaZnN3",
+      "Ca: +2, Zn: +2, N: +5\nCheck: (+2) + 2(+2) + 5(+1) = 9\nFormula: CaZnN3"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Nb",
+      "N"
+    ],
+    "responses": [
+      "K: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: KNO5",
+      "K: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: KNO5",
+      "K: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 4(-3) = 0\nFormula: KNO5",
+      "K: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 4(-3) = 0\nFormula: KNO5",
+      "K: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: KNO5",
+      "K: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 4(-3) = 0\nFormula: KNO5",
+      "K: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + (-3)(4) = 0\nFormula: KNb2N4",
+      "K: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 4(-3) = 0\nFormula: KNOb4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ni",
+      "S"
+    ],
+    "responses": [
+      "Ca: +2, Ni: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNiS2",
+      "Ca: +2, Ni: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNiS2",
+      "Ca: +2, Ni: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNi2S4",
+      "Ca: +2, Ni: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNiS2",
+      "Ca: +2, Ni: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNi2S4",
+      "Ca: +2, Ni: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNiS2",
+      "Ca: +2, Ni: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNiS2",
+      "Ca: +2, Ni: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNi2S4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Co",
+      "N"
+    ],
+    "responses": [
+      "Na: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: NaCoN3",
+      "Na: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: NaCoN3",
+      "Na: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: NaCoN3",
+      "Na: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: NaCoN3",
+      "Na: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 3(-3) = 0\nFormula: NaCoN3",
+      "Na: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: NaCoN3",
+      "Na: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: NaCoN3",
+      "Na: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: NaCoN3"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "V",
+      "N"
+    ],
+    "responses": [
+      "Ca: +2, V: +5, N: +3\nCheck: (+2) + 5(+5) + 3(+3) = 0\nFormula: CaV2N3",
+      "Ca: +2, V: +5, N: +3\nCheck: (+2) + 5(+5) + 3(+3) = 0\nFormula: CaV2N3",
+      "Ca: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: CaV2N3",
+      "Ca: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + 4(-3) = 0\nFormula: CaV2N4",
+      "Ca: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + (-3)(4) = 0\nFormula: CaV2N4",
+      "Ca: +2, V: +5, N: +3\nCheck: (+2) + 5(+5) + 3(+3) = 0\nFormula: CaV2N3",
+      "Ca: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: CaV2N3",
+      "Ca: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + (-3) \u00d7 4 = 0\nFormula: CaV2N4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Cu",
+      "O"
+    ],
+    "responses": [
+      "K: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KCuO2",
+      "K: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KCu2O4",
+      "K: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KCu2O4",
+      "K: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: K2CuO",
+      "K: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: K2CuO",
+      "K: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: K2CuO",
+      "K: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KCu2O4",
+      "K: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: K2CuO"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "V",
+      "F"
+    ],
+    "responses": [
+      "Na: +1, V: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaVOF4",
+      "Na: +1, V: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaV2F4",
+      "Na: +1, V: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaVOF4",
+      "Na: +1, V: +5, F: -1\nCheck: (+1) + 5(+5) + (-1)(4) = 0\nFormula: NaVOF4",
+      "Na: +1, V: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaV2F4",
+      "Na: +1, V: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaVOF4",
+      "Na: +1, V: +5, F: -1\nCheck: (+1) + 5(+5) + (-1)(4) = 0\nFormula: NaV2F4",
+      "Na: +1, V: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: NaVOF4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Mo",
+      "N"
+    ],
+    "responses": [
+      "Na: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + 4(-3) = 0\nFormula: NaMoN4",
+      "Na: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + 5(-3) = 0\nFormula: NaMoN5",
+      "Na: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + 4(-3) = 0\nFormula: NaMoN4",
+      "Na: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + (-3)(4) = 0\nFormula: NaMoN4",
+      "Na: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + (-3)(4) = 0\nFormula: NaMoN4",
+      "Na: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + 4(-3) = 0\nFormula: NaMnON4",
+      "Na: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + 5(-3) = 0\nFormula: NaMoN5",
+      "Na: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + (-3) = 0\nFormula: NaMoN3"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Ni",
+      "S"
+    ],
+    "responses": [
+      "Na: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaNiS2",
+      "Na: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaNiS2",
+      "Na: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaNiS2",
+      "Na: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaNiS2",
+      "Na: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaNiS2",
+      "Na: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaNiS2",
+      "Na: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaNiS2",
+      "Na: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaNiS2"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Fe",
+      "F"
+    ],
+    "responses": [
+      "K: +1, Fe: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: KFeF4",
+      "K: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + (-1) x 6 = 0\nFormula: KFeF6",
+      "K: +1, Fe: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: KFeF4",
+      "K: +1, Fe: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: KFeF4",
+      "K: +1, Fe: +3, F: -1\nCheck: (+1) + 3(+3) + (-1)(4) = 0\nFormula: KFeF4",
+      "K: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KFeF4",
+      "K: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KFeF4",
+      "K: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KFeF4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Ti",
+      "S"
+    ],
+    "responses": [
+      "K: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + (-2) = 0\nFormula: KTiS2",
+      "K: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + (-2) = 0\nFormula: KTiS4",
+      "K: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: K2TiS4",
+      "K: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: KTi2S4",
+      "K: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: K2TiS4",
+      "K: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 6(-2) = 0\nFormula: KTiS2",
+      "K: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + (-2) \u00d7 2 = 0\nFormula: KTi2S4",
+      "K: +1, Ti: +4, S: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: KTiS4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Co",
+      "S"
+    ],
+    "responses": [
+      "Mg: +2, Co: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCoS2",
+      "Mg: +2, Co: +3, S: -2\nCheck: (+2) + 2(+3) + 4(-2) = 0\nFormula: MgCoS2",
+      "Mg: +2, Co: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgCoS2",
+      "Mg: +2, Co: +3, S: -2\nCheck: (+2) + 2(+3) + 6(-2) = 0\nFormula: MgCoS3",
+      "Mg: +2, Co: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCoS2",
+      "Mg: +2, Co: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgCoS2",
+      "Mg: +2, Co: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCoS3",
+      "Mg: +2, Co: +3, S: -2\nCheck: (+2) + 2(+3) + 4(-2) = 0\nFormula: MgCoS2"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Nb",
+      "N"
+    ],
+    "responses": [
+      "Ca: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + (-3)(4) = 0\nFormula: CaNbN4",
+      "Ca: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: CaNbN3",
+      "Ca: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + (-3) \u00d7 4 = 0\nFormula: CaNbN4",
+      "Ca: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: CaNbN3",
+      "Ca: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + (-3)(4) = 0\nFormula: CaNb2N4",
+      "Ca: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + (-3) = 0\nFormula: CaNbN3",
+      "Ca: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + (-3) * 4 = 0\nFormula: CaNbN4",
+      "Ca: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + (-3) \u00d7 4 = 0\nFormula: CaNb2N4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mo",
+      "N"
+    ],
+    "responses": [
+      "Ca: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: CaMoN5",
+      "Ca: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + (-3)(4) = 0\nFormula: CaMoN4",
+      "Ca: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: CaMoN5",
+      "Ca: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + (-3)(4) = 0\nFormula: CaMoN4",
+      "Ca: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: CaMoN5",
+      "Ca: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: CaMoN5",
+      "Ca: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: CaMoN5",
+      "Ca: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: CaMoN5"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "V",
+      "O"
+    ],
+    "responses": [
+      "Li: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiVO3",
+      "Li: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiVO4",
+      "Li: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiVO4",
+      "Li: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiVO4",
+      "Li: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiVO4",
+      "Li: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiVO4",
+      "Li: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiVO4",
+      "Li: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiVO4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Cu",
+      "F"
+    ],
+    "responses": [
+      "K: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KCuF4",
+      "K: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KCuF4",
+      "K: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KCuF4",
+      "K: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KCuF4",
+      "K: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KCuF4",
+      "K: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KCuF4",
+      "K: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KCuF4",
+      "K: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KCuF4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Fe",
+      "N"
+    ],
+    "responses": [
+      "Li: +1, Fe: +2, N: -3\nCheck: (+1) + 2(+2) + 5(-3) = 0\nFormula: LiFeN3",
+      "Li: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + (-3)(4) = 0\nFormula: LiFeN4",
+      "Li: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + (-3)(4) = 0\nFormula: LiFeN3",
+      "Li: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + 3(-3) = 0\nFormula: LiFeN3",
+      "Li: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: LiFeN3",
+      "Li: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: LiFeN3",
+      "Li: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + (-3)(4) = 0\nFormula: LiFeN4",
+      "Li: +1, Fe: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiFeN3"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Ni",
+      "O"
+    ],
+    "responses": [
+      "K: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNO2",
+      "K: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNi2O4",
+      "K: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNO2O4",
+      "K: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNO2",
+      "K: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNO2",
+      "K: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNO2",
+      "K: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNO2",
+      "K: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNi2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Zn",
+      "N"
+    ],
+    "responses": [
+      "Mg: +2, Zn: +2, N: -3\nCheck: (+2) + 2(+2) + 3(-3) = 0\nFormula: MgZnN3",
+      "Mg: +2, Zn: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: MgZnN3",
+      "Mg: +2, Zn: +2, N: +5\nCheck: (+2) + 2(+2) + 5(+1) = 9\nFormula: Mg2ZnN5",
+      "Mg: +2, Zn: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: MgZnN3",
+      "Mg: +2, Zn: +2, N: +5\nCheck: (+2) + 2(+2) + 5(+1) = 0\nFormula: Mg2ZnN2",
+      "Mg: +2, Zn: +2, N: -3\nCheck: (+2) + 2(+2) + 3(-3) = 0\nFormula: MgZnN3",
+      "Mg: +2, Zn: +2, N: +5\nCheck: (+2) + 2(+2) + 5(-3) = 0\nFormula: MgZnN5",
+      "Mg: +2, Zn: +2, N: +5\nCheck: (+2) + 2(+2) + 5(+1) = 0\nFormula: Mg2ZnN2"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Cr",
+      "O"
+    ],
+    "responses": [
+      "K: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KCr2O4",
+      "K: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KCr2O4",
+      "K: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KCr2O4",
+      "K: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KCr2O4",
+      "K: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KCr2O4",
+      "K: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KCr2O7",
+      "K: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KCr2O4",
+      "K: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KCr2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Mo",
+      "F"
+    ],
+    "responses": [
+      "Na: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + (-1)(4) = 0\nFormula: NaMoF4",
+      "Na: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + (-1)(4) = 0\nFormula: NaMoF4",
+      "Na: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: NaMoF4",
+      "Na: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: Na2MoF4",
+      "Na: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + (-1)(4) = 0\nFormula: NaMoF4",
+      "Na: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + (-1)(4) = 0\nFormula: NaMoF4",
+      "Na: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: Na2MoF4",
+      "Na: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: NaMoF4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Cr",
+      "N"
+    ],
+    "responses": [
+      "Li: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + (-3)(4) = 0\nFormula: LiCrN4",
+      "Li: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: LiCrN3",
+      "Li: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: LiCrN3",
+      "Li: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: LiCrN4",
+      "Li: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: LiCrN3",
+      "Li: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: LiCrN4",
+      "Li: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: LiCrN3",
+      "Li: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: LiCrN3"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Mo",
+      "O"
+    ],
+    "responses": [
+      "K: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2O4",
+      "K: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2O4",
+      "K: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2O4",
+      "K: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2O4",
+      "K: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2O4",
+      "K: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2O4",
+      "K: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2O4",
+      "K: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Fe",
+      "O"
+    ],
+    "responses": [
+      "Na: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaFe2O4",
+      "Na: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaFe2O4",
+      "Na: +1, Fe: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaFe2O4",
+      "Na: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaFe2O4",
+      "Na: +1, Fe: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaFe2O4",
+      "Na: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaFe2O4",
+      "Na: +1, Fe: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaFe2O4",
+      "Na: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaFe2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mo",
+      "S"
+    ],
+    "responses": [
+      "Mg: +2, Mo: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMoS4",
+      "Mg: +2, Mo: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMoS4",
+      "Mg: +2, Mo: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMoS4",
+      "Mg: +2, Mo: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2S4",
+      "Mg: +2, Mo: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2S4",
+      "Mg: +2, Mo: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2S4",
+      "Mg: +2, Mo: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMo2S4",
+      "Mg: +2, Mo: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgMoS4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Cr",
+      "O"
+    ],
+    "responses": [
+      "Li: +1, Cr: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCr2O4",
+      "Li: +1, Cr: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCr2O4",
+      "Li: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiCr2O4",
+      "Li: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiCr2O4",
+      "Li: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiCr2O4",
+      "Li: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiCr2O4",
+      "Li: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiCr2O4",
+      "Li: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: LiCr2O4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Mo",
+      "N"
+    ],
+    "responses": [
+      "K: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + (-3)(4) = 0\nFormula: KMoN4",
+      "K: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + 5(-3) = 0\nFormula: KMoN5",
+      "K: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + (-3) = 0\nFormula: KMoN3",
+      "K: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + 4(-3) = 0\nFormula: KMoN4",
+      "K: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + 5(-3) = 0\nFormula: KMoN5",
+      "K: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + (-3)(4) = 0\nFormula: KMoN4",
+      "K: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + 5(-3) = 0\nFormula: KMoN5",
+      "K: +1, Mo: +6, N: -3\nCheck: (+1) + 6(+6) + 5(-3) = 0\nFormula: KMoN5"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ni",
+      "N"
+    ],
+    "responses": [
+      "Mg: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\n\nFormula: MgNiN3",
+      "Mg: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: MgNiN3",
+      "Mg: +2, Ni: +2, N: +5\nCheck: (+2) + 2(+2) + 5(+1) = 0\nFormula: MgNiN5",
+      "Mg: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: MgNiN3",
+      "Mg: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: MgNiN3",
+      "Mg: +2, Ni: +2, N: +5\nCheck: (+2) + 2(+2) + 5(+1) = 9 (which is an odd number)\nFormula: MgNiN5",
+      "Mg: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + 3(-3) = 0\nFormula: MgNiN3",
+      "Mg: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: MgNiN3"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Ti",
+      "N"
+    ],
+    "responses": [
+      "Na: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: NaTiN3",
+      "Na: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: NaTiN3",
+      "Na: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3)(4) = 0\nFormula: NaTiN4",
+      "Na: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: NaTiN3",
+      "Na: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: NaTiN3",
+      "Na: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: NaTiN3",
+      "Na: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: NaTiN3",
+      "Na: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: NaTiN3"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mn",
+      "O"
+    ],
+    "responses": [
+      "Mg: +2, Mn: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: Mg2MnO4",
+      "Mg: +2, Mn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: Mg2Mn2O4",
+      "Mg: +2, Mn: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgMn2O4",
+      "Mg: +2, Mn: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgMn2O4",
+      "Mg: +2, Mn: +3, O: -2\nCheck: (+2) + 1(+3) + 4(-2) = 0\nFormula: Mg2MnO4",
+      "Mg: +2, Mn: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgMn2O4",
+      "Mg: +2, Mn: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgMn2O4",
+      "Mg: +2, Mn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: Mg2Mn2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Zn",
+      "S"
+    ],
+    "responses": [
+      "Mg: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgZnS2",
+      "Mg: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgZnS2",
+      "Mg: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: Mg2ZnS4",
+      "Mg: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgZnS2",
+      "Mg: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgZnS2",
+      "Mg: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: Mg2ZnS2",
+      "Mg: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: Mg2ZnS4",
+      "Mg: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: Mg2ZnS2"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Fe",
+      "F"
+    ],
+    "responses": [
+      "Mg: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + (-1)(4) = 0\nFormula: MgFeF4",
+      "Mg: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: MgFeF4",
+      "Mg: +2, Fe: +2, F: -1\nCheck: (+2) + 2(+2) + 4(-1) = 0\nFormula: MgFeF4",
+      "Mg: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: MgFeF4",
+      "Mg: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: MgFeF4",
+      "Mg: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + (-1)(4) = 0\nFormula: MgFeF4",
+      "Mg: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: MgFeF4",
+      "Mg: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: MgFeF4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mo",
+      "F"
+    ],
+    "responses": [
+      "Ca: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + 4(-1) = 0\nFormula: CaMoF4",
+      "Ca: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + 4(-1) = 0\nFormula: CaMoF4",
+      "Ca: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + 4(-1) = 0\nFormula: CaMoF4",
+      "Ca: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + 4(-1) = 0\nFormula: CaMoF4",
+      "Ca: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + (-1)(4) = 0\nFormula: CaMoF4",
+      "Ca: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + 4(-1) = 0\nFormula: CaMoF4",
+      "Ca: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + (-1)(4) = 0\nFormula: CaMoF4",
+      "Ca: +2, Mo: +6, F: -1\nCheck: (+2) + 6(+6) + (-1)(4) = 0\nFormula: CaMoF4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Co",
+      "O"
+    ],
+    "responses": [
+      "Mg: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCo2O4",
+      "Mg: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCo2O4",
+      "Mg: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCo2O4",
+      "Mg: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCo2O4",
+      "Mg: +2, Co: +3, O: -2\nCheck: (+2) + 2(+3) + 4(-2) = 0\nFormula: MgCo2O4",
+      "Mg: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCo2O4",
+      "Mg: +2, Co: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCo2O4",
+      "Mg: +2, Co: +3, O: -2\nCheck: (+2) + 2(+3) + 4(-2) = 0\nFormula: MgCo2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mn",
+      "O"
+    ],
+    "responses": [
+      "Ca: +2, Mn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMn2O4",
+      "Ca: +2, Mn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMn2O4",
+      "Ca: +2, Mn: +4, O: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: CaMn2O4",
+      "Ca: +2, Mn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMn2O4",
+      "Ca: +2, Mn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMn2O4",
+      "Ca: +2, Mn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMn2O4",
+      "Ca: +2, Mn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMn2O4",
+      "Ca: +2, Mn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaMn2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Cu",
+      "S"
+    ],
+    "responses": [
+      "Na: +1, Cu: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCuS2",
+      "Na: +1, Cu: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCuS2",
+      "Na: +1, Cu: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2CuS2",
+      "Na: +1, Cu: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCuS2",
+      "Na: +1, Cu: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCuS2",
+      "Na: +1, Cu: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCuS2",
+      "Na: +1, Cu: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2CuS2",
+      "Na: +1, Cu: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2CuS2"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ti",
+      "F"
+    ],
+    "responses": [
+      "Ca: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1)(4) = 0\nFormula: CaTiF4",
+      "Ca: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + 4(-1) = 0\nFormula: CaTiF4",
+      "Ca: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1)*4 = 0\nFormula: CaTiF4",
+      "Ca: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1)(6) = 0\nFormula: CaTiF6",
+      "Ca: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1)(4) = 0\nFormula: CaTiF4",
+      "Ca: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + 4(-1) = 0\nFormula: CaTiF4",
+      "Ca: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1)(6) = 0\nFormula: CaTiF6",
+      "Ca: +2, Ti: +4, F: -1\nCheck: (+2) + 4(+4) + (-1)(4) = 0\nFormula: CaTiF4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "V",
+      "F"
+    ],
+    "responses": [
+      "Mg: +2, V: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgV2F4",
+      "Mg: +2, V: +5, F: -1\nCheck: (+2) + 5(+5) + (-1)(4) = 0\nFormula: MgV2F4",
+      "Mg: +2, V: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgV2F4",
+      "Mg: +2, V: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgV2F4",
+      "Mg: +2, V: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgV2F4",
+      "Mg: +2, V: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgV2F4",
+      "Mg: +2, V: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgV2F4",
+      "Mg: +2, V: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: MgV2F4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ti",
+      "N"
+    ],
+    "responses": [
+      "Ca: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(1) = 0\nFormula: CaTiN3",
+      "Ca: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3) = 0\nFormula: CaTiN3",
+      "Ca: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(1) = 0\nFormula: CaTiN3",
+      "Ca: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(1) = 0\nFormula: CaTiN3",
+      "Ca: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3) = 0\nFormula: CaTiN3",
+      "Ca: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(4) = 0\nFormula: CaTiN3",
+      "Ca: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(4) = 0\nFormula: CaTiN3",
+      "Ca: +2, Ti: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(4) = 0\nFormula: CaTiN3"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Nb",
+      "N"
+    ],
+    "responses": [
+      "Mg: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: MgNbN3",
+      "Mg: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + 4(-3) = 0\nFormula: MgNbN4",
+      "Mg: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: MgNbN3",
+      "Mg: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: MgNbN3",
+      "Mg: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + 4(-3) = 0\nFormula: MgNbN4",
+      "Mg: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + 4(-3) = 0\nFormula: MgNbN4",
+      "Mg: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + (-3)(4) = 0\nFormula: MgNbN4",
+      "Mg: +2, Nb: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: MgNbN3"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Cu",
+      "N"
+    ],
+    "responses": [
+      "Li: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + 3(-3) = 0\nFormula: LiCuN3",
+      "Lithium (Li): +1\nCopper (Cu): +2\nNitrogen (N): -3\n\nCheck: (+1) + 2(+2) + (-3)(4) = 0\n\nFormula: Li2Cu3N4",
+      "Li: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiCuN3",
+      "Lithium (Li): +1\nCopper (Cu): +2\nNitrogen (N): -3\n\nCheck:\n(1) + 2 + (-3) + (-3) = 0\n\nFormula: Li3CuN3",
+      "Li: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + 5(-3) = 0\nFormula: LiCuN3",
+      "Li: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + 5(-3) = 0\nFormula: LiCuN3",
+      "Li: +1, Cu: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiCuN3",
+      "Lithium (Li): +1, Copper (Cu): +2, Nitrogen (N): +5\nCheck: (+1) + 2(+2) + 5(+5) = 14\nFormula: Li3CuN5"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Cu",
+      "F"
+    ],
+    "responses": [
+      "Na: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaCuF4",
+      "Na: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaCuF4",
+      "Na: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaCuF4",
+      "Na: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaCuF4",
+      "Na: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaCuF4",
+      "Na: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaCuF2",
+      "Na: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaCuF2",
+      "Na: +1, Cu: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaCuF2"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ti",
+      "S"
+    ],
+    "responses": [
+      "Ca: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: CaTiS4",
+      "Ca: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: CaTiS4",
+      "Ca: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + (-2) = 0\nFormula: CaTiS4",
+      "Ca: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: CaTiS4",
+      "Ca: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + (-2) * 4 = 0\nFormula: CaTiS4",
+      "Ca: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: CaTiS4",
+      "Ca: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + (-2)(6) = 0\nFormula: CaTiS4",
+      "Ca: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + (-2) * 6 = 0\nFormula: CaTiS3"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Zn",
+      "S"
+    ],
+    "responses": [
+      "Ca: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnS2",
+      "Ca: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnS2",
+      "Ca: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnS4",
+      "Ca: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnS2",
+      "Ca: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnS2",
+      "Ca: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnS2",
+      "Ca: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnS2",
+      "Ca: +2, Zn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnS4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Ni",
+      "N"
+    ],
+    "responses": [
+      "Li: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiNiN3",
+      "Li: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiNiN3",
+      "Li: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + 3(-3) = 0\nFormula: LiNiN3",
+      "Li: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiNiN3",
+      "Li: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiNiN3",
+      "Li: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiNiN3",
+      "Li: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiNiN3",
+      "Li: +1, Ni: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiNiN3"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Nb",
+      "S"
+    ],
+    "responses": [
+      "K: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNObS4",
+      "K: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNObS4",
+      "K: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: K2NbS4",
+      "K: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNObS4",
+      "K: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNObS4",
+      "K: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNObS4",
+      "K: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNSb4S4",
+      "K: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNObS4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Nb",
+      "S"
+    ],
+    "responses": [
+      "Ca: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2S4",
+      "Ca: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2S4",
+      "Ca: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2S4",
+      "Ca: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2S4",
+      "Ca: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2S4",
+      "Ca: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2S4",
+      "Ca: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2S4",
+      "Ca: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaNb2S4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Nb",
+      "S"
+    ],
+    "responses": [
+      "Na: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2S4",
+      "Na: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2S4",
+      "Na: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2S4",
+      "Na: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2S4",
+      "Na: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: Na2Nb2S4",
+      "Na: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2S4",
+      "Na: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2S4",
+      "Na: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2S4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Co",
+      "O"
+    ],
+    "responses": [
+      "Li: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCo2O4",
+      "Li: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCo2O4",
+      "Li: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCo2O4",
+      "Li: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCo2O4",
+      "Li: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCo2O4",
+      "Li: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCo2O4",
+      "Li: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCo2O4",
+      "Li: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiCo2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Nb",
+      "S"
+    ],
+    "responses": [
+      "Mg: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2S4",
+      "Mg: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2S4",
+      "Mg: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2S4",
+      "Mg: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2S4",
+      "Mg: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2S4",
+      "Mg: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2S4",
+      "Mg: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2S4",
+      "Mg: +2, Nb: +5, S: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgNb2S4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Ni",
+      "F"
+    ],
+    "responses": [
+      "K: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: K2NiF4",
+      "K: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: K2NiF4",
+      "K: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KNiF4",
+      "K: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: K2NiF4",
+      "K: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: K2NiF4",
+      "K: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: K2NiF4",
+      "K: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: K2NiF4",
+      "K: +1, Ni: +2, F: -1\nCheck: (+1) + 2(+2) + (-1)(4) = 0\nFormula: K2NiF4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "V",
+      "N"
+    ],
+    "responses": [
+      "Mg: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: MgV2N3",
+      "Mg: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: MgV2N3",
+      "Mg: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + 4(-3) = 0\nFormula: MgV2N4",
+      "Mg: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + 4(-3) = 0\nFormula: MgV2N4",
+      "Mg: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: MgV2N3",
+      "Mg: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + 4(-3) = 0\nFormula: MgV2N4",
+      "Mg: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: MgV2N3",
+      "Mg: +2, V: +5, N: -3\nCheck: (+2) + 5(+5) + 3(-3) = 0\nFormula: MgV2N3"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Nb",
+      "O"
+    ],
+    "responses": [
+      "Li: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2O4",
+      "Li: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2O4",
+      "Li: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2O4",
+      "Li: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2O4",
+      "Li: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2O4",
+      "Li: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2O4",
+      "Li: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2O4",
+      "Li: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Fe",
+      "S"
+    ],
+    "responses": [
+      "Na: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaFeS3",
+      "Na: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaFeS3",
+      "Na: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaFeS3",
+      "Na: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaFeS3",
+      "Na: +1, Fe: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaFeS2",
+      "Na: +1, Fe: +3, S: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaFeS3",
+      "Na: +1, Fe: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaFeS2",
+      "Na: +1, Fe: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaFeS2"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Mn",
+      "O"
+    ],
+    "responses": [
+      "Na: +1, Mn: +7, O: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: NaMn2O4",
+      "Na: +1, Mn: +4, O: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: NaMn2O4",
+      "Na: +1, Mn: +4, O: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: NaMn2O4",
+      "Na: +1, Mn: +7, O: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: NaMn2O4",
+      "Na: +1, Mn: +7, O: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: NaMn2O4",
+      "Na: +1, Mn: +7, O: -2\nCheck: (+1) + 7(+7) + 4(-2) = 0\nFormula: NaMn2O4",
+      "Na: +1, Mn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaMn2O4",
+      "Na: +1, Mn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaMn2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mn",
+      "S"
+    ],
+    "responses": [
+      "Mg: +2, Mn: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: Mg2MnS4",
+      "Mg: +2, Mn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: Mg2MnS2",
+      "Mg: +2, Mn: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgMnS4",
+      "Mg: +2, Mn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: Mg2MnS4",
+      "Mg: +2, Mn: +3, S: -2\nCheck: (+2) + 2(+3) + 6(-2) = 0\nFormula: Mg2MnS3",
+      "Mg: +2, Mn: +7, S: -2\nCheck: (+2) + 7(+7) + 4(-2) = 0\nFormula: Mg2MnS4",
+      "Mg: +2, Mn: +7, S: -2\nCheck: (+2) + 7(+7) + 4(-2) = 0\nFormula: Mg5(MnS4)",
+      "Mg: +2, Mn: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: Mg2MnS2"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "V",
+      "O"
+    ],
+    "responses": [
+      "Na: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaVO3",
+      "Na: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaVO4",
+      "Na: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaVO4",
+      "Na: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaVO3",
+      "Na: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaVO3",
+      "Na: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaVO4",
+      "Na: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaVO3",
+      "Na: +1, V: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaVO3"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Fe",
+      "O"
+    ],
+    "responses": [
+      "Li: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiFe2O4",
+      "Li: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiFe2O4",
+      "Li: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiFe2O4",
+      "Li: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiFe2O4",
+      "Li: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiFe2O4",
+      "Li: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiFe2O4",
+      "Li: +1, Fe: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiFe2O4",
+      "Li: +1, Fe: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: LiFe2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Nb",
+      "N"
+    ],
+    "responses": [
+      "Na: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: NaNbN3",
+      "Na: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: NaNbN3",
+      "Na: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: NaNbN3",
+      "Na: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: NaNbN3",
+      "Na: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: NaNbN3",
+      "Na: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + (-3)(4) = 0\nFormula: NaNbN4",
+      "Na: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + (-3) * 4 = 0\nFormula: NaNbN4",
+      "Na: +1, Nb: +5, N: -3\nCheck: (+1) + 5(+5) + 3(-3) = 0\nFormula: NaNbN3"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Fe",
+      "F"
+    ],
+    "responses": [
+      "Na: +1, Fe: +3, F: -1\nCheck: (+1) + 3(+3) + (-1)(4) = 0\nFormula: NaFeF4",
+      "Na: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + (-1)(4) = 0\nFormula: NaFeF4",
+      "Na: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + (-1)(4) = 0\nFormula: NaFeF4",
+      "Na: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaFeF4",
+      "Na: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: NaFeF4",
+      "Na: +1, Fe: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaFeF3",
+      "Na: +1, Fe: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaFeF3",
+      "Na: +1, Fe: +3, F: -1\nCheck: (+1) + 3(+3) + (-1)(4) = 0\nFormula: NaFeF4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Mo",
+      "S"
+    ],
+    "responses": [
+      "Na: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: Na2MoS4",
+      "Na: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: Na2MoS4",
+      "Na: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaMoS4",
+      "Na: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: Na2MoS2",
+      "Na: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: Na2MoS2",
+      "Na: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaMoS4",
+      "Na: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: Na2MoS4",
+      "Na: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: Na2MoS2"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Nb",
+      "F"
+    ],
+    "responses": [
+      "K: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: KNObF4",
+      "K: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: KNObF4",
+      "K: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: KNObF4",
+      "K: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: KNObF4",
+      "K: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: KNObF4",
+      "K: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: KNObF4",
+      "K: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: KNObF4",
+      "K: +1, Nb: +5, F: -1\nCheck: (+1) + 5(+5) + 4(-1) = 0\nFormula: KNObF4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Fe",
+      "N"
+    ],
+    "responses": [
+      "Ca: +2, Fe: +3, N: -3\nCheck: (+2) + 3(+3) + (-3)(4) = 0\nFormula: CaFeN4",
+      "Ca: +2, Fe: +3, N: +5\nCheck: (+2) + 3(+3) + 5(+1) = 14\n\nFormula: CaFeN4",
+      "Ca: +2, Fe: +3, N: +5\nCheck: (+2) + 3(+3) + 5(+1) = 14\nFormula: CaFeN5",
+      "Ca: +2, Fe: +3, N: -3\nCheck: (+2) + 3(+3) + 3(-3) = 0\nFormula: CaFeN3",
+      "Ca: +2, Fe: +3, N: -3\nCheck: (+2) + 3(+3) + 4(-3) = 0\nFormula: CaFeN4",
+      "Ca: +2, Fe: +3, N: +5\nCheck: (+2) + 3(+3) + 5(+1) = 14\nFormula: CaFeN5",
+      "Ca: +2, Fe: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) = 0\nFormula: CaFeN3",
+      "Ca: +2, Fe: +3, N: -3\nCheck: (+2) + 3(+3) + 4(-3) = 0\nFormula: CaFeN3"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Ti",
+      "O"
+    ],
+    "responses": [
+      "Li: +1, Ti: +4, O: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTi2O4",
+      "Li: +1, Ti: +4, O: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTi2O4",
+      "Li: +1, Ti: +4, O: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTi2O4",
+      "Li: +1, Ti: +4, O: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTi2O4",
+      "Li: +1, Ti: +4, O: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTi2O4",
+      "Li: +1, Ti: +4, O: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTi2O4",
+      "Li: +1, Ti: +4, O: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTi2O4",
+      "Li: +1, Ti: +4, O: -2\nCheck: (+1) + 4(+4) + 4(-2) = 0\nFormula: LiTi2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cu",
+      "O"
+    ],
+    "responses": [
+      "Mg: +2, Cu: +1, O: -2\nCheck: (+2) + (+1) + 4(-2) = 0\nFormula: MgCu2O4",
+      "Mg: +2, Cu: +1, O: -2\nCheck: (+2) + (+1) + 4(-2) = 0\nFormula: MgCuO2",
+      "Mg: +2, Cu: +1, O: -2\nCheck: (+2) + (+1) + 4(-2) = 0\nFormula: MgCuO2",
+      "Mg: +2, Cu: +1, O: -2\nCheck: (+2) + (+1) + 4(-2) = 0\nFormula: MgCuO2",
+      "Mg: +2, Cu: +1, O: -2\nCheck: (+2) + (+1) + 4(-2) = 0\nFormula: MgCuO2",
+      "Mg: +2, Cu: +1, O: -2\nCheck: (+2) + (+1) + 4(-2) = 0\nFormula: MgCu2O4",
+      "Mg: +2, Cu: +1, O: -2\nCheck: (+2) + (+1) + 4(-2) = 0\nFormula: MgCuO2",
+      "Mg: +2, Cu: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgCu2O4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Mn",
+      "F"
+    ],
+    "responses": [
+      "K: +1, Mn: +7, F: -1\nCheck: (+1) + 7(+7) + 4(-1) = 0\nFormula: K2MnF4",
+      "K: +1, Mn: +7, F: -1\nCheck: (+1) + 7(+7) + 4(-1) = 0\nFormula: K2MnF4",
+      "K: +1, Mn: +7, F: -1\nCheck: (+1) + 7(+7) + 4(-1) = 0\nFormula: K2MnF4",
+      "K: +1, Mn: +7, F: -1\nCheck: (+1) + 7(+7) + 4(-1) = 0\nFormula: K2MnF4",
+      "K: +1, Mn: +7, F: -1\nCheck: (+1) + 7(+7) + 4(-1) = 0\nFormula: K2MnF4",
+      "K: +1, Mn: +7, F: -1\nCheck: (+1) + 7(+7) + 4(-1) = 0\nFormula: K2MnF4",
+      "K: +1, Mn: +7, F: -1\nCheck: (+1) + 7(+7) + 4(-1) = 0\nFormula: K2MnF4",
+      "K: +1, Mn: +7, F: -1\nCheck: (+1) + 7(+7) + 4(-1) = 0\nFormula: K2MnF4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Co",
+      "N"
+    ],
+    "responses": [
+      "Li: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) * 4 = 0\nFormula: LiCoN3",
+      "Li: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: LiCoN3",
+      "Li: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: LiCoN3",
+      "Li: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: LiCoN3",
+      "Li: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + (-3)(4) = 0\nFormula: LiCoN3",
+      "Li: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) * 4 = 0\nFormula: LiCoN3",
+      "Li: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: LiCoN3",
+      "Li: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: LiCoN3"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Ti",
+      "N"
+    ],
+    "responses": [
+      "Li: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: LiTiN3",
+      "Li: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: LiTiN3",
+      "Li: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: LiTiN3",
+      "Li: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3)(4) = 0\nFormula: LiTiN4",
+      "Li: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3)(3) = 0\nFormula: LiTiN3",
+      "Li: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3)(4) = 0\nFormula: LiTiN4",
+      "Li: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: LiTiN3",
+      "Li: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: LiTiN3"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cr",
+      "O"
+    ],
+    "responses": [
+      "Mg: +2, Cr: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgCr2O4",
+      "Mg: +2, Cr: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCr2O4",
+      "Mg: +2, Cr: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgCr2O4",
+      "Mg: +2, Cr: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCr2O4",
+      "Mg: +2, Cr: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCr2O4",
+      "Mg: +2, Cr: +3, O: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCr2O4",
+      "Mg: +2, Cr: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgCr2O4",
+      "Mg: +2, Cr: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgCr2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Mn",
+      "N"
+    ],
+    "responses": [
+      "Li: +1, Mn: +4, N: -3\nCheck: (+1) + 4(+4) + (-3)(1) = 0\nFormula: LiMnN4",
+      "Li: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + (-3) = 0\nFormula: LiMnN3",
+      "Li: +1, Mn: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: LiMnN3",
+      "Li: +1, Mn: +3, N: -3\nCheck: (+1) + 3(+3) + (-3)(4) = 0\nFormula: LiMnN4",
+      "Li: +1, Mn: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: LiMnN3",
+      "Li: +1, Mn: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: LiMnN4",
+      "Lithium (Li): +1, Manganese (Mn): +3, Nitrogen (N): -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: LiMn2N4",
+      "Lithium (Li): +1,\nManganese (Mn): +2,\nNitrogen (N): -3\n\nThe formula of this compound would be:\nFormula: LiMN3N"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Nb",
+      "F"
+    ],
+    "responses": [
+      "Ca: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: CaNbF4",
+      "Ca: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + (-1)(4) = 0\nFormula: CaNbF4",
+      "Ca: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: CaNbF4",
+      "Ca: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: CaNbF4",
+      "Ca: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + (-1)(4) = 0\nFormula: CaNbF4",
+      "Ca: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + (-1)(4) = 0\nFormula: CaNbF4",
+      "Ca: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: CaNbF4",
+      "Ca: +2, Nb: +5, F: -1\nCheck: (+2) + 5(+5) + 4(-1) = 0\nFormula: CaNbF4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ti",
+      "S"
+    ],
+    "responses": [
+      "Mg: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTiS4",
+      "Mg: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTiS4",
+      "Mg: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTiS4",
+      "Mg: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTi2S4",
+      "Mg: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTiS4",
+      "Mg: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTiS4",
+      "Mg: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTiS4",
+      "Mg: +2, Ti: +4, S: -2\nCheck: (+2) + 4(+4) + 4(-2) = 0\nFormula: MgTiS4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Ni",
+      "S"
+    ],
+    "responses": [
+      "K: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNi2S4",
+      "K: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNi2S4",
+      "K: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNi2S4",
+      "K: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNi2S4",
+      "K: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNiS2",
+      "K: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNi2S4",
+      "K: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNi2S4",
+      "K: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KNiS2"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Zn",
+      "O"
+    ],
+    "responses": [
+      "Ca: +2, Zn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZn2O4",
+      "Ca: +2, Zn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnO2",
+      "Ca: +2, Zn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnO4",
+      "Ca: +2, Zn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZn2O4",
+      "Ca: +2, Zn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZn2O4",
+      "Ca: +2, Zn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnO4",
+      "Ca: +2, Zn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZn2O4",
+      "Ca: +2, Zn: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaZnO4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cr",
+      "S"
+    ],
+    "responses": [
+      "Mg: +2, Cr: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCr2S4",
+      "Mg: +2, Cr: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgCr2S4",
+      "Mg: +2, Cr: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCr2S4",
+      "Mg: +2, Cr: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCr2S4",
+      "Mg: +2, Cr: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgCr2S4",
+      "Mg: +2, Cr: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCr2S4",
+      "Mg: +2, Cr: +6, S: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: MgCr2S4",
+      "Mg: +2, Cr: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgCr2S4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Cr",
+      "O"
+    ],
+    "responses": [
+      "Na: +1, Cr: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCr2O4",
+      "Na: +1, Cr: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCr2O4",
+      "Na: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaCr2O4",
+      "Na: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaCr2O4",
+      "Na: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaCr2O4",
+      "Na: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaCr2O7",
+      "Na: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaCr2O4",
+      "Na: +1, Cr: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaCr2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cu",
+      "N"
+    ],
+    "responses": [
+      "Mg: +2, Cu: +1, N: +5\nCheck: (+2) + (+1) + 5(-3) = 0\nFormula: MgCuN5",
+      "Mg: +2, Cu: +1, N: -3\nCheck: (+2) + (+1) + (-3) = 0\nFormula: MgCuN3",
+      "Mg: +2, Cu: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: MgCuN3",
+      "Mg: +2, Cu: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: MgCuN3",
+      "Mg: +2, Cu: +2, N: -3\nCheck: (+2) + 2(+2) + 3(-3) = 0\nFormula: MgCuN3",
+      "Mg: +2, Cu: +1, N: -3\nCheck: (+2) + (+1) + (-3) = 0\nFormula: MgCuN3",
+      "Mg: +2, Cu: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: MgCuN3",
+      "Mg: +2, Cu: +1, N: +5\nCheck: (+2) + (+1) + 5(N) = 0\nFormula: MgCuN5"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ni",
+      "O"
+    ],
+    "responses": [
+      "Mg: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgNi2O4",
+      "Mg: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgNi2O4",
+      "Mg: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgNi2O4",
+      "Mg: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgNi2O4",
+      "Mg: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgNi2O4",
+      "Mg: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgNi2O4",
+      "Mg: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgNi2O4",
+      "Mg: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgNi2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Nb",
+      "O"
+    ],
+    "responses": [
+      "Na: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2O7",
+      "Na: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2O5",
+      "Na: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2O7",
+      "Na: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2O5",
+      "Na: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2O7",
+      "Na: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2O5",
+      "Na: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2O7",
+      "Na: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: NaNb2O5"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Co",
+      "N"
+    ],
+    "responses": [
+      "K: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: KCoN3",
+      "K: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: KCo(NO3)3",
+      "K: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: KCoN3",
+      "K: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: KCoN3",
+      "K: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: KCo3N5",
+      "K: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: KCoN3",
+      "K: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: KCo(NO3)3",
+      "K: +1, Co: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: KCoN3"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Ti",
+      "F"
+    ],
+    "responses": [
+      "K: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + (-1)(4) = 0\nFormula: KTiF4",
+      "K: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + 4(-1) = 0\nFormula: K2TiF4",
+      "K: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + 4(-1) = 0\nFormula: K2TiF4",
+      "K: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + 4(-1) = 0\nFormula: K2TiF4",
+      "K: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + 4(-1) = 0\nFormula: KTiF4",
+      "K: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + 4(-1) = 0\nFormula: KTiF4",
+      "K: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + (-1)(6) = 0\nFormula: K2TiF6",
+      "K: +1, Ti: +4, F: -1\nCheck: (+1) + 4(+4) + (-1)(6) = 0\nFormula: KTiF4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mn",
+      "N"
+    ],
+    "responses": [
+      "Ca: +2, Mn: +4, N: -3\nCheck: (+2) + 4(+4) + (-3)(4) = 0\nFormula: CaMnN4",
+      "Ca: +2, Mn: +2, N: +5\nCheck: (+2) + 2(+2) + 5(+1) = 0\nFormula: CaMnN2",
+      "Ca: +2, Mn: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) = 0\nFormula: CaMnN3",
+      "Ca: +2, Mn: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\n\nFormula: CaMnN3",
+      "Ca: +2, Mn: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) = 0\nFormula: CaMnN3",
+      "Ca: +2, Mn: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: CaMnN3",
+      "Ca: +2, Mn: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) = 0\nFormula: CaMnN3",
+      "Ca: +2, Mn: +4, N: -3\nCheck: (+2) + 4(+4) + (-3) = 0\nFormula: CaMnN3"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Cr",
+      "N"
+    ],
+    "responses": [
+      "Mg: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) = 0\nFormula: MgCrN3",
+      "Mg: +2, Cr: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: MgCrN5",
+      "Mg: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) = 0\nFormula: MgCrN3",
+      "Mg: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) * 4 = 0\nFormula: MgCrN4",
+      "Mg: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) = 0\nFormula: MgCrN3",
+      "Mg: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + (-3) = 0\nFormula: MgCrN3",
+      "Mg: +2, Cr: +3, N: -3\nCheck: (+2) + 3(+3) + 4(-3) = 0\nFormula: MgCrN4",
+      "Mg: +2, Cr: +6, N: -3\nCheck: (+2) + 6(+6) + (-3)(4) = 0\nFormula: MgCrN4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Zn",
+      "O"
+    ],
+    "responses": [
+      "K: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KZnO2",
+      "K: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KZnO2",
+      "K: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KZnO2",
+      "K: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KZnO2",
+      "K: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KZnO2",
+      "K: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KZnO2",
+      "K: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KZnO2",
+      "K: +1, Zn: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: KZnO2"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Mo",
+      "O"
+    ],
+    "responses": [
+      "Na: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaMoO4",
+      "Na: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaMoO4",
+      "Na: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaMo2O4",
+      "Na: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaMoO4",
+      "Na: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaMo2O4",
+      "Na: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaMo2O4",
+      "Na: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaMo2O4",
+      "Na: +1, Mo: +6, O: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: NaMo2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Mo",
+      "N"
+    ],
+    "responses": [
+      "Mg: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + (-3) * 5 = 0\nFormula: MgMoN5",
+      "Mg: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + (-3)(4) = 0\nFormula: MgMoN4",
+      "Mg: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: MgMoN5",
+      "Mg: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: MgMoN5",
+      "Mg: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + (-3)(4) = 0\nFormula: MgMoN4",
+      "Mg: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + (-3)(4) = 0\nFormula: MgMoN4",
+      "Mg: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: MgMoN5",
+      "Mg: +2, Mo: +6, N: -3\nCheck: (+2) + 6(+6) + 5(-3) = 0\nFormula: MgMoN5"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Fe",
+      "F"
+    ],
+    "responses": [
+      "Li: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + (-1)(4) = 0\nFormula: LiFeF4",
+      "Li: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiFeF4",
+      "Li: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiFeF4",
+      "Li: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiFeF4",
+      "Li: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiFeF4",
+      "Li: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiFeF4",
+      "Li: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiFeF4",
+      "Li: +1, Fe: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: LiFeF4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Cr",
+      "F"
+    ],
+    "responses": [
+      "Ca: +2, Cr: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaCrF4",
+      "Ca: +2, Cr: +3, F: -1\nCheck: (+2) + 3(+3) + (-1)(4) = 0\nFormula: CaCrF4",
+      "Ca: +2, Cr: +3, F: -1\nCheck: (+2) + 3(+3) + (-1)(4) = 0\nFormula: CaCrF4",
+      "Ca: +2, Cr: +3, F: -1\nCheck: (+2) + 3(+3) + (-1)(4) = 0\nFormula: CaCrF4",
+      "Ca: +2, Cr: +3, F: -1\nCheck: (+2) + 3(+3) + (-1)(4) = 0\nFormula: CaCrF4",
+      "Ca: +2, Cr: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaCrF4",
+      "Ca: +2, Cr: +6, F: -1\nCheck: (+2) + 6(+6) + (-1)(4) = 0\nFormula: CaCrF4",
+      "Ca: +2, Cr: +6, F: -1\nCheck: (+2) + 6(+6) + 4(-1) = 0\nFormula: CaCrF4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Ni",
+      "S"
+    ],
+    "responses": [
+      "Li: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNiS2",
+      "Li: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNiS2",
+      "Li: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNiS2",
+      "Li: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNiS2",
+      "Li: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNiS2",
+      "Li: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNiS2",
+      "Li: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNiS2",
+      "Li: +1, Ni: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNiS2"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Zn",
+      "N"
+    ],
+    "responses": [
+      "Na: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaZnN3",
+      "Na: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaZnN3",
+      "Na: +1, Zn: +2, N: +5\nCheck: (+1) + 2(+2) + 5(+5) = 0\nFormula: NaZnN5",
+      "Na: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaZnN3",
+      "Na: +1, Zn: +2, N: +5\nCheck: (+1) + 2(+2) + 5(+5) = 14 (correct)\nFormula: NaZnN4",
+      "Na: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: NaZnN3",
+      "Na: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + 3(-3) = 0\nFormula: NaZnN3",
+      "Na: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + 5(-3) = 0\nFormula: NaZnN3"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Nb",
+      "S"
+    ],
+    "responses": [
+      "Li: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2S4",
+      "Li: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2S4",
+      "Li: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2S4",
+      "Li: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2S4",
+      "Li: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2S4",
+      "Li: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2S4",
+      "Li: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2S4",
+      "Li: +1, Nb: +5, S: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: LiNb2S4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Co",
+      "F"
+    ],
+    "responses": [
+      "Mg: +2, Co: +3, F: -1\nCheck: (+2) + 2(+3) + (-1)(4) = 0\nFormula: MgCoF4",
+      "Mg: +2, Co: +3, F: -1\nCheck: (+2) + 2(+3) + 4(-1) = 0\nFormula: MgCoF4",
+      "Mg: +2, Co: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: MgCoF4",
+      "Mg: +2, Co: +3, F: -1\nCheck: (+2) + 3(+3) + (-1)(4) = 0\nFormula: MgCoF4",
+      "Mg: +2, Co: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: MgCoF4",
+      "Mg: +2, Co: +3, F: -1\nCheck: (+2) + 2(+3) + 4(-1) = 0\nFormula: MgCoF4",
+      "Mg: +2, Co: +3, F: -1\nCheck: (+2) + 2(+3) + (-1)(4) = 0\nFormula: MgCoF4",
+      "Mg: +2, Co: +3, F: -1\nCheck: (+2) + 3(+3) + (-1) * 6 = 0\nFormula: MgCoF6"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "V",
+      "O"
+    ],
+    "responses": [
+      "Ca: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2O5",
+      "Ca: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2O5",
+      "Ca: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2O4",
+      "Ca: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaVO4",
+      "Ca: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2O4",
+      "Ca: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2O4",
+      "Ca: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2O4",
+      "Ca: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: CaV2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "V",
+      "O"
+    ],
+    "responses": [
+      "Mg: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgVO4",
+      "Mg: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgVO4",
+      "Mg: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgV2O4",
+      "Mg: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgVO4",
+      "Mg: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgVO4",
+      "Mg: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgV2O4",
+      "Mg: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgVO4",
+      "Mg: +2, V: +5, O: -2\nCheck: (+2) + 5(+5) + 4(-2) = 0\nFormula: MgV2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Co",
+      "O"
+    ],
+    "responses": [
+      "Na: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCoO2",
+      "Na: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCo2O4",
+      "Na: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCo2O4",
+      "Na: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCo2O4",
+      "Na: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCo2O4",
+      "Na: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCo2O4",
+      "Na: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCoO2",
+      "Na: +1, Co: +3, O: -2\nCheck: (+1) + 3(+3) + 4(-2) = 0\nFormula: NaCo2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Ni",
+      "F"
+    ],
+    "responses": [
+      "Mg: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + (-1) \u00d7 6 = 0\nFormula: MgNiF6",
+      "Mg: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: MgNiF4",
+      "Mg: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + 4(-1) = 0\nFormula: MgNiF4",
+      "Mg: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + 4(-1) = 0\nFormula: MgNiF4",
+      "Mg: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + 4(-1) = 0\nFormula: MgNiF4",
+      "Mg: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + 4(-1) = 0\nFormula: MgNiF4",
+      "Mg: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + (-1) * 6 = 0\nFormula: MgNiF6",
+      "Mg: +2, Ni: +2, F: -1\nCheck: (+2) + 2(+2) + (-1)(4) = 0\nFormula: MgNiF4"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Ni",
+      "O"
+    ],
+    "responses": [
+      "Li: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNi2O4",
+      "Li: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNi2O4",
+      "Li: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNi2O4",
+      "Li: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNi2O4",
+      "Li: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNi2O4",
+      "Li: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNi2O4",
+      "Li: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNi2O4",
+      "Li: +1, Ni: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: LiNi2O4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Fe",
+      "S"
+    ],
+    "responses": [
+      "Ca: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFeS2",
+      "Ca: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFeS2",
+      "Ca: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFeS2",
+      "Ca: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFeS2",
+      "Ca: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFeS2",
+      "Ca: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFeS2",
+      "Ca: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFeS2",
+      "Ca: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: CaFeS2"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ni",
+      "N"
+    ],
+    "responses": [
+      "Ca: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: CaNiN3",
+      "Ca: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\n\nFormula: CaNiN3",
+      "Ca: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\n\nFormula: CaNiN3",
+      "Ca: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: CaNiN3",
+      "Ca: +2, Ni: +2, N: +5\nCheck: (+2) + 2(+2) + 5(-3) = 0\nFormula: CaNiN2",
+      "Ca: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\nFormula: CaNiN3",
+      "Ca: +2, Ni: +2, N: +5\nCheck: (+2) + 2(+2) + 5(-3) = 0\nFormula: CaNiN2",
+      "Ca: +2, Ni: +2, N: -3\nCheck: (+2) + 2(+2) + (-3) = 1\n\nFormula: CaNiN3"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Cu",
+      "O"
+    ],
+    "responses": [
+      "Na: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCuO2",
+      "Na: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCuO2",
+      "Na: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCuO2",
+      "Na: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCu2O4",
+      "Na: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCu2O4",
+      "Na: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCu2O4",
+      "Na: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCuO2",
+      "Na: +1, Cu: +2, O: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: NaCuO2"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Zn",
+      "N"
+    ],
+    "responses": [
+      "Li: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiZnN3",
+      "Li: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + 3(-3) = 0\nFormula: Li3ZnN3",
+      "Li: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiZnN3",
+      "Li: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + 5(-3) = 0\nFormula: Li3ZnN2",
+      "Li: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiZnN3",
+      "Li: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiZnN3",
+      "Li: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiZnN3",
+      "Li: +1, Zn: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: LiZnN3"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Mo",
+      "S"
+    ],
+    "responses": [
+      "K: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMoS4",
+      "K: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2S4",
+      "K: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: K2MoS4",
+      "K: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2S4",
+      "K: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2S4",
+      "K: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: K2MoS4",
+      "K: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMo2S4",
+      "K: +1, Mo: +6, S: -2\nCheck: (+1) + 6(+6) + 4(-2) = 0\nFormula: KMoS4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Cr",
+      "N"
+    ],
+    "responses": [
+      "Na: +1, Cr: +6, N: -3\nCheck: (+1) + 6(+6) + (-3)(4) = 0\nFormula: NaCrN4",
+      "Na: +1, Cr: +6, N: -3\nCheck: (+1) + 6(+6) + (-3) * 4 = 0\nFormula: NaCrN4",
+      "Na: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + 5(-3) = 0\nFormula: NaCrN3",
+      "Na: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: NaCrN3",
+      "Na: +1, Cr: +6, N: -3\nCheck: (+1) + 6(+6) + 5(-3) = 0\nFormula: NaCrN3",
+      "Na: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + (-3)(4) = 0\nFormula: NaCrN4",
+      "Na: +1, Cr: +6, N: -3\nCheck: (+1) + 6(+6) + 5(-3) = 0\nFormula: NaCrN5",
+      "Na: +1, Cr: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: NaCrN3"
+    ]
+  },
+  {
+    "elements": [
+      "Mg",
+      "Fe",
+      "S"
+    ],
+    "responses": [
+      "Mg: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgFeS2",
+      "Mg: +2, Fe: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgFeS2",
+      "Mg: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgFeS2",
+      "Mg: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgFeS2",
+      "Mg: +2, Fe: +2, S: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: MgFeS2",
+      "Mg: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgFeS2",
+      "Mg: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgFeS2",
+      "Mg: +2, Fe: +3, S: -2\nCheck: (+2) + 3(+3) + 4(-2) = 0\nFormula: MgFeS2"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Ti",
+      "N"
+    ],
+    "responses": [
+      "K: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: KTiN3",
+      "K: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3)(4) = 0\nFormula: KTiN4",
+      "K: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: KTiN3",
+      "K: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: KTiN3",
+      "K: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3) = 0\nFormula: KTiN3",
+      "K: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3)(4) = 0\nFormula: KTiN4",
+      "K: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3)(4) = 0\nFormula: KTiN4",
+      "K: +1, Ti: +4, N: -3\nCheck: (+1) + 4(+4) + (-3)(4) = 0\nFormula: KTiN4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Zn",
+      "F"
+    ],
+    "responses": [
+      "K: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KZnF4",
+      "K: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KZnF4",
+      "K: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KZnF4",
+      "K: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KZnF4",
+      "K: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KZnF4",
+      "K: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KZnF4",
+      "K: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KZnF4",
+      "K: +1, Zn: +2, F: -1\nCheck: (+1) + 2(+2) + 4(-1) = 0\nFormula: KZnF4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Zn",
+      "S"
+    ],
+    "responses": [
+      "Na: +1, Zn: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnS4",
+      "Na: +1, Zn: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnS2",
+      "Na: +1, Zn: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnS2",
+      "Na: +1, Zn: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnS4",
+      "Na: +1, Zn: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnS4",
+      "Na: +1, Zn: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnS2",
+      "Na: +1, Zn: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnS2",
+      "Na: +1, Zn: +2, S: -2\nCheck: (+1) + 2(+2) + 4(-2) = 0\nFormula: Na2ZnS2"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Ni",
+      "O"
+    ],
+    "responses": [
+      "Ca: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNi2O4",
+      "Ca: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNi2O4",
+      "Ca: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNi2O4",
+      "Ca: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNi2O4",
+      "Ca: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNi2O4",
+      "Ca: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNi2O4",
+      "Ca: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNi2O4",
+      "Ca: +2, Ni: +2, O: -2\nCheck: (+2) + 2(+2) + 4(-2) = 0\nFormula: CaNi2O4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Mn",
+      "N"
+    ],
+    "responses": [
+      "K: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + (-3)(4) = 0\nFormula: K3MnN4",
+      "K: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + 5(-3) = 0\nFormula: K3Mn(NO3)2",
+      "K: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + (-3)(4) = 0\nFormula: K3MnN4",
+      "K: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + (-3)(4) = 0\nFormula: K3Mn(NO3)2",
+      "K: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + 5(-3) = 0\nFormula: K2MnN5",
+      "K: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + 5(-3) = 0\nFormula: K2MnN5",
+      "K: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + (-3)(4) = 0\nFormula: K2Mn7N4",
+      "K: +1, Mn: +7, N: -3\nCheck: (+1) + 7(+7) + (-3)(4) = 0\nFormula: K2MnN4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Nb",
+      "O"
+    ],
+    "responses": [
+      "K: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNOb2O4",
+      "K: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNOb2O4",
+      "K: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNOb4",
+      "K: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNOb4",
+      "K: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNOb4",
+      "K: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNOb4",
+      "K: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNOb2O4",
+      "K: +1, Nb: +5, O: -2\nCheck: (+1) + 5(+5) + 4(-2) = 0\nFormula: KNOb2O4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Mo",
+      "F"
+    ],
+    "responses": [
+      "K: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + (-1)(4) = 0\nFormula: KMoF4",
+      "K: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: KMoF4",
+      "K: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: KMoF4",
+      "K: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: KMoF4",
+      "K: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: KMoF4",
+      "K: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: KMoF4",
+      "K: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + (-1)(4) = 0\nFormula: KMoF4",
+      "K: +1, Mo: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: KMoF4"
+    ]
+  },
+  {
+    "elements": [
+      "Na",
+      "Co",
+      "F"
+    ],
+    "responses": [
+      "Na: +1, Co: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaCoF3",
+      "Na: +1, Co: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaCoF3",
+      "Na: +1, Co: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaCoF3",
+      "Na: +1, Co: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaCoF3",
+      "Na: +1, Co: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaCoF3",
+      "Na: +1, Co: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaCoF3",
+      "Na: +1, Co: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaCoF3",
+      "Na: +1, Co: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: NaCoF3"
+    ]
+  },
+  {
+    "elements": [
+      "Li",
+      "Cr",
+      "F"
+    ],
+    "responses": [
+      "Li: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: LiCrF4",
+      "Li: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: LiCrF4",
+      "Li: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: LiCrF4",
+      "Li: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: LiCrF4",
+      "Li: +1, Cr: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiCrF4",
+      "Li: +1, Cr: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiCrF4",
+      "Li: +1, Cr: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiCrF4",
+      "Li: +1, Cr: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: LiCrF4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Fe",
+      "N"
+    ],
+    "responses": [
+      "K: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + 4(-3) = 0\nFormula: KFeN4",
+      "K: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) = 0\nFormula: KFeN3",
+      "K: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + 3(-3) = 0\nFormula: KFeN3",
+      "K: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + 3(-3) = 0\nFormula: KFeN3",
+      "K: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + (-3) * 4 = 0\nFormula: KFeN4",
+      "K: +1, Fe: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KFeN3",
+      "K: +1, Fe: +3, N: -3\nCheck: (+1) + 3(+3) + 3(-3) = 0\nFormula: KFeN3",
+      "K: +1, Fe: +2, N: -3\nCheck: (+1) + 2(+2) + (-3) = 0\nFormula: KFeN3"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Fe",
+      "F"
+    ],
+    "responses": [
+      "Ca: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaFeF4",
+      "Ca: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + (-1)(4) = 0\nFormula: CaFeF4",
+      "Ca: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + (-1)(4) = 0\nFormula: CaFeF4",
+      "Ca: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaFeF4",
+      "Ca: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaFeF4",
+      "Ca: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + (-1)(4) = 0\nFormula: CaFeF4",
+      "Ca: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaFeF4",
+      "Ca: +2, Fe: +3, F: -1\nCheck: (+2) + 3(+3) + 4(-1) = 0\nFormula: CaFeF4"
+    ]
+  },
+  {
+    "elements": [
+      "K",
+      "Cr",
+      "F"
+    ],
+    "responses": [
+      "K: +1, Cr: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: KCrF4",
+      "K: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: KCrF4",
+      "K: +1, Cr: +6, F: -1\nCheck: (+1) + 6(+6) + 4(-1) = 0\nFormula: KCrF4",
+      "K: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: KCrF4",
+      "K: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: KCrF4",
+      "K: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: KCrF4",
+      "K: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: KCrF4",
+      "K: +1, Cr: +3, F: -1\nCheck: (+1) + 3(+3) + 4(-1) = 0\nFormula: KCrF4"
+    ]
+  },
+  {
+    "elements": [
+      "Ca",
+      "Mo",
+      "O"
+    ],
+    "responses": [
+      "Ca: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaMo2O4",
+      "Ca: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaMo2O4",
+      "Ca: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaMo2O4",
+      "Ca: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaMo2O4",
+      "Ca: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaMo2O4",
+      "Ca: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaMo2O4",
+      "Ca: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaMo2O4",
+      "Ca: +2, Mo: +6, O: -2\nCheck: (+2) + 6(+6) + 4(-2) = 0\nFormula: CaMo2O4"
+    ]
+  }
+]
