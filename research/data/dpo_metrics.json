@@ -1,0 +1,8 @@
+{
+  "validity": 0.9232954545454546,
+  "balance": 0.7130681818181818,
+  "diversity": 0.2556818181818182,
+  "faithfulness": 0.22709163346613545,
+  "n_responses": 352,
+  "balance_among_valid": 0.7723076923076923
+}
