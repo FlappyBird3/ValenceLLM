@@ -133,9 +133,9 @@ export default function App() {
           verifier checks them live on the server.
         </p>
         <p>
-          <a href="https://github.com/FlappyBird3/dpo-matsci" target="_blank" rel="noreferrer">Training & analysis code</a>
+          <a href="https://github.com/FlappyBird3/ValenceLLM/tree/main/research" target="_blank" rel="noreferrer">Training & analysis code</a>
           {" · "}
-          <a href="https://github.com/FlappyBird3/chemcheck" target="_blank" rel="noreferrer">Verifier, API & website code</a>
+          <a href="https://github.com/FlappyBird3/ValenceLLM" target="_blank" rel="noreferrer">Verifier, API & website code</a>
         </p>
       </footer>
     </main>
