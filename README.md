@@ -2,7 +2,7 @@
 
 # ValenceLLM
 
-Does fine-tuning improve an LLM's reasoning, or just its answers?
+Does fine-tuning for generating compound formulas improve an LLM's chemical reasoning, or just its answers?
 
 **Live demo:** https://chemcheck-lovat.vercel.app
 **API documentation:** https://chemcheck-api-crwd.onrender.com/docs
